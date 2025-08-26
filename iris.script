@@ -1,0 +1,95 @@
+set $namespace="%SYS"
+Do ##class(Security.Users).UnExpireUserPasswords("*")
+Do ##class(Config.NLS.Locales).Install("jpuw")
+//SSLクライアント webapi作成
+set status=##class(Security.SSLConfigs).Create("webapi")
+// WSGIアプリの設定
+set webName = "/info"
+set webProperties("DispatchClass") = "%SYS.Python.WSGI"
+set webProperties("NameSpace") = "USER"
+set webProperties("Enabled") = 1
+set webProperties("AutheEnabled") = 64
+set webProperties("MatchRoles")=":%All"
+set webProperties("Path")="/src/wsgi/"
+set webProperties("WSGIAppLocation")="/src/wsgi/"
+set webProperties("WSGIAppName")="news"
+set webProperties("WSGICallable")="app"
+set webProperties("WSGIDebug")=1
+set webProperties("WSGIType")=1
+set st=##class(Security.Applications).Create(webName, .webProperties)
+
+// /csp/userのAnalyze有効に設定
+set st=##class(Security.Applications).Get("/csp/user",.prop)
+set prop("DeepSeeEnabled")=1
+set st=##class(Security.Applications).Modify("/csp/user",.prop)
+
+// /csp/userを認証なしだけに設定
+set st=##class(Security.Applications).Get("/csp/user",.webProperties)
+set webProperties("AutheEnabled") = 64
+set webProperties("MatchRoles")=":%All"
+set st=##class(Security.Applications).Modify("/csp/user",.webProperties)
+
+set $namespace="USER"
+do $System.OBJ.LoadDir("/opt/src","ck",,1)
+//do ##class(Product).Load()
+
+// NLP.Card,CardFactsのインポート
+do $System.OBJ.Load("/opt/src/NLP/CardFacts.cls","ck")
+do $System.OBJ.Load("/opt/src/NLP/Card.cls","ck")
+
+
+// 医療資材ダミーデータ登録
+do ##class(Inventory.Product).create()
+
+// LOAD DATA実行
+do ##class(Hospital.Utils).LoadAll()
+Write "LoadData終わり"
+
+//  BI.Attendance作成
+do ##class(Hospital.Utils).ETLAttendance()
+
+//外部テーブル用にSQLゲートウェイ作成
+do ##class(ABiC.Utils).SetSQLGWJDBC()
+//外部サーバ+テーブル作成(IncidentReport用)
+do ##class(ABiC.Utils).createForeignTable()
+
+//----ABiC用-----
+//ABiC用共有ディメンジョンデータ作成
+do ##class(ABiC.DateDimention).createData()
+
+// ABiC.ConsecutiveAttendance作成
+do ##class(Hospital.Utils).ETLABiCAttendance()
+
+// ABiC.Attendance作成
+do ##class(ABiC.Attendance).convertTBL()
+
+// ABiC.IncidentReport作成
+// 外部サーバ接続テスト
+do ##class(ABiC.Utils).test()
+do ##class(ABiC.IncidentReport).convertTBL()
+
+// ABiC.EHRPatientInfo / ABiC.EHRTest作成
+do ##class(ABiC.EHRPatientInfo).convertTBL()
+do ##class(ABiC.EHRTest).convertTBL()
+
+// ここからキューブビルド
+write ##class(%DeepSee.Utils).%BuildCube("ConsecutiveDayCube")
+write ##class(%DeepSee.Utils).%BuildCube("ClinicData")
+write ##class(%DeepSee.Utils).%BuildCube("ConsecutiveAttendanceCube")
+write ##class(%DeepSee.Utils).%BuildCube("IncidentReportCube")
+write ##class(%DeepSee.Utils).%BuildCube("MaterialTransaction")
+
+write ##class(%DeepSee.Utils).%BuildCube("ABiCAttendanceCube")
+write ##class(%DeepSee.Utils).%BuildCube("ABiCConsecutiveDayCube")
+write ##class(%DeepSee.Utils).%BuildCube("ABiCIncidentReportCube")
+write ##class(%DeepSee.Utils).%BuildCube("ABiCClinicDataCube")
+
+// Pivot　Dashbordインポート
+Do ##class(%DeepSee.UserLibrary.Utils).%Import("/opt/src/Attendance.pivot.dfi")
+Do ##class(%DeepSee.UserLibrary.Utils).%Import("/opt/src/ConsecutiveAttendance.pivot.dfi")
+Do ##class(%DeepSee.UserLibrary.Utils).%Import("/opt/src/IncidentReport.pivot.dfi")
+Do ##class(%DeepSee.UserLibrary.Utils).%Import("/opt/src/test.dashboard.dfi")
+
+// ダッシュボード作成用
+do $System.OBJ.Load("/opt/src/NLP/Utils2.cls","ck")
+

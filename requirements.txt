@@ -1,0 +1,5 @@
+sqlalchemy-iris
+flask
+feedparser
+faker
+requests

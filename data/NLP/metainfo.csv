@@ -1,0 +1,41 @@
+Word,Column,MDXColumn,TableName,CubeName,Expression
+attendance management,,,ABiC.Attendance,ABiCAttendanceCube,
+consecutive working days,ConsecutiveDay,ConsecutiveDay,ABiC.ConsecutiveAttendance,ABiCConsecutiveDayCube,[ConsecutiveDay].[H1].[ConsecutiveDay].Members
+shift,ShiftName,ShiftName,Hospital.Shift,ABiCAttendanceCube,[ShiftName].[H1].[ShiftName].Members
+employee role,EmpRole,EmpRole,Hospital.Employee,ABiCAttendanceCube,[EmpRole].[H1].[EmpRole].Members
+role,EmpRole,EmpRole,Hospital.Employee,ABiCAttendanceCube,[EmpRole].[H1].[EmpRole].Members
+night shifts,NightShiftFlag,NightShiftFlag,ABiC.Attendance,ABiCAttendanceCube,[NightShiftFlag].[H1].[NightShiftFlag].Members
+working nights,NightShiftFlag,NightShiftFlag,ABiC.Attendance,ABiCAttendanceCube,[Measures].[NightShiftFlag]
+day shift,,DayShift,,ABiCAttendanceCube,[Measures].[DayShift]
+days,,DayShift,,ABiCAttendanceCube,[Measures].[DayShift]
+employees,,,Hospital.Employee,ABiCAttendanceCube,
+2024,DateOfEx,DateOfEx,ABiC.DateDimention,,&[2024]
+2023,DateOfEx,DateOfEx,ABiC.DateDimention,,&[2023]
+2022,DateOfEx,DateOfEx,ABiC.DateDimention,,&[2022]
+2025,DateOfEx,DateOfEx,ABiC.DateDimention,,&[2025]
+inspection,TestName,TestName,ABiC.EHRTest,ABiCClinicDataCube,[TestName].[H1].[TestName].Members
+test,TestName,TestName,ABiC.EHRTest,ABiCClinicDataCube,[TestName].[H1].[TestName].Members
+admission category,AdmissionFlg,AdmissionFlg,ABiC.EHRPatientInfo,ABiCClinicDataCube,[AdmissionFlg].[H1].[AdmissionFlg].Members
+incident reports,Report,,ABiC.IncidentReport,ABiCIncidentReportCube,
+fault level,HarmScore,HarmScore,ABiC.IncidentReport,ABiCIncidentReportCube,[HarmScore].[H1].[HarmScore].Members
+continuity,DurationOfHarm,DurationOfHarm,ABiC.IncidentReport,ABiCIncidentReportCube,[DurationOfHarm].[H1].[DurationOfHarm].Members
+patients,,,ABiC.EHRPatientInfo,ABiCClinicDataCube,
+average age,Age,AgeAVG,ABiC.EHRPatientInfo,ABiCClinicDataCube,[Measures].[AgeAVG]
+department,Department,Department,ABiC.EHRPatientInfo,ABiCClinicDataCube,[Department].[H1].[Department].Members
+examination,TestName,TestName,ABiC.EHRTest,ABiCClinicDataCube,[TestName].[H1].[TestName].Members
+gender,Gender,Gender,ABiC.EHRPatientInfo,ABiCClinicDataCube,[Gender].[H1].[Gender].Members
+stocks,Quantity,Quantity,ABiC.KPI,,
+material,ProductName,ProductName,ABiC.KPI,,
+date,TransactionDate,TransactionDate,ABiC.KPI,,
+January,Month,Month,ABiC.DateDimention,,&[1]
+February,Month,Month,ABiC.DateDimention,,&[2]
+March,Month,Month,ABiC.DateDimention,,&[3]
+April,Month,Month,ABiC.DateDimention,,&[4]
+May,Month,Month,ABiC.DateDimention,,&[5]
+June,Month,Month,ABiC.DateDimention,,&[6]
+January,Month,Month,ABiC.DateDimention,,&[7]
+August,Month,Month,ABiC.DateDimention,,&[8]
+September,Month,Month,ABiC.DateDimention,,&[9]
+October,Month,Month,ABiC.DateDimention,,&[10]
+November,Month,Month,ABiC.DateDimention,,&[11]
+December,Month,Month,ABiC.DateDimention,,&[12]

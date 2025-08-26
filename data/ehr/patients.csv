@@ -1,0 +1,1501 @@
+﻿PID,Name,Age,Gender,Dept,AdmissionDate,DischargeDate,Diagnosis,AdmissionFlg
+1,Alyssa Perez,24,M,Surgery,2022-06-12,2022-06-12,Appendicitis,0
+2,Shelby Walsh,90,F,Pulmonology,2022-11-16,2022-11-16,Cough,0
+3,Karen Gordon,77,F,Pulmonology,2022-09-03,2022-09-03,Cough,0
+4,Christopher Moore,68,F,Cardiology,2024-04-19,2024-04-30,Angina,1
+5,Tammy Garcia,71,F,Surgery,2022-03-14,2022-03-14,Rectal cancer,0
+6,Jason Harris,43,F,Cardiology,2023-07-01,2023-07-20,Myocardial infarction,1
+7,Laura Olson,87,F,Pulmonology,2022-06-11,2022-06-22,Cough,1
+8,Brooke Bowman,24,M,Cardiology,2025-03-03,2025-03-23,Angina,1
+9,Peter Williams,84,M,Pulmonology,2022-10-14,2022-10-19,Cough,1
+10,Christopher King,21,F,Cardiology,2022-11-05,2022-11-05,Heart failure,0
+11,Philip Foster,39,F,Cardiology,2023-02-25,2023-03-08,Heart failure,1
+12,Beth Brennan,57,F,Surgery,2022-09-20,2022-10-03,Rectal cancer,1
+13,Amanda Vazquez,73,M,Pulmonology,2023-04-19,2023-05-05,Cough,1
+14,Jacqueline Mueller,90,M,Pulmonology,2022-12-08,2022-12-08,Shortness of breath,0
+15,Robin Palmer,70,F,Pulmonology,2023-01-16,2023-01-31,Wheezing,1
+16,Stephen Dunn,74,F,Pulmonology,2022-08-04,2022-08-23,Cough,1
+17,Justin Evans,86,F,Surgery,2022-09-26,2022-09-26,Rectal cancer,0
+18,Emily Jordan,87,M,Surgery,2022-05-03,2022-05-22,Appendicitis,1
+19,Mr. David Wall,79,M,Surgery,2024-05-21,2024-06-03,Cholelithiasis,1
+20,Kevin Guzman,31,F,Internal Medicine,2023-12-01,2023-12-14,Diabetes,1
+21,Karen White,46,F,Cardiology,2024-05-29,2024-05-29,Myocardial infarction,0
+22,Sergio Eaton,42,F,Internal Medicine,2022-10-22,2022-10-22,Diabetes,0
+23,Shelly Thompson,33,F,Surgery,2023-07-16,2023-08-02,Appendicitis,1
+24,Tanner Hicks,85,M,Cardiology,2023-05-23,2023-05-23,Myocardial infarction,0
+25,Thomas Hill,33,F,Surgery,2025-01-19,2025-01-19,Cholelithiasis,0
+26,Mark Ewing,66,F,Pulmonology,2023-03-17,2023-03-25,Shortness of breath,1
+27,Tina Miller,74,M,Pulmonology,2024-06-26,2024-07-06,Wheezing,1
+28,Patricia Silva,49,F,Surgery,2023-07-29,2023-08-16,Appendicitis,1
+29,Jasmine Ramirez,21,M,Internal Medicine,2022-12-26,2023-01-05,Pneumonia,1
+30,Michael Rodriguez,76,F,Surgery,2023-06-26,2023-07-08,Appendicitis,1
+31,Andrew Sutton,52,F,Pulmonology,2022-04-08,2022-04-21,Cough,1
+32,Michael Sullivan,71,M,Pulmonology,2024-05-18,2024-05-28,Wheezing,1
+33,Mr. Joshua Cantrell,44,F,Internal Medicine,2023-04-27,2023-05-06,Hypertension,1
+34,Lawrence Mcdonald,60,F,Pulmonology,2023-09-28,2023-10-16,Shortness of breath,1
+35,Kimberly Blankenship,76,F,Surgery,2025-01-14,2025-01-29,Rectal cancer,1
+36,Oscar Shepherd,43,M,Pulmonology,2023-10-21,2023-11-07,Wheezing,1
+37,David Bautista,49,F,Pulmonology,2022-10-23,2022-11-12,Shortness of breath,1
+38,Jose Rogers,64,F,Internal Medicine,2022-03-04,2022-03-12,Hypertension,1
+39,Melissa Hill,43,M,Cardiology,2024-06-02,2024-06-02,Angina,0
+40,Cody Garner,45,F,Surgery,2023-05-21,2023-05-21,Cholelithiasis,0
+41,Troy Davidson,89,F,Pulmonology,2023-11-13,2023-11-30,Shortness of breath,1
+42,Michael Washington,39,F,Surgery,2022-07-13,2022-07-21,Appendicitis,1
+43,Lori Hall,43,F,Surgery,2023-03-16,2023-04-02,Cholelithiasis,1
+44,Ashley Schneider,27,M,Pulmonology,2022-05-07,2022-05-21,Wheezing,1
+45,Jennifer Anderson,82,M,Cardiology,2022-06-01,2022-06-06,Heart failure,1
+46,Christina Cannon,30,M,Internal Medicine,2023-07-22,2023-07-22,Pneumonia,0
+47,David Bryant,39,F,Surgery,2022-08-18,2022-08-23,Cholelithiasis,1
+48,Stacy Mcdaniel,84,F,Internal Medicine,2022-12-30,2022-12-30,Pneumonia,0
+49,Angela Williams,52,F,Surgery,2023-04-11,2023-04-17,Rectal cancer,1
+50,Tamara Gomez,74,M,Internal Medicine,2022-08-04,2022-08-18,Pneumonia,1
+51,Lisa Gallagher,24,F,Pulmonology,2022-08-28,2022-09-05,Cough,1
+52,Donna Smith,77,M,Surgery,2023-11-16,2023-11-16,Appendicitis,0
+53,Michael Mckenzie,46,M,Internal Medicine,2023-04-19,2023-05-09,Hypertension,1
+54,Frank Lopez,60,F,Internal Medicine,2024-01-18,2024-01-23,Diabetes,1
+55,Barbara Martin,56,F,Surgery,2023-04-22,2023-05-12,Rectal cancer,1
+56,Anthony Ramirez,36,F,Surgery,2023-12-08,2023-12-16,Rectal cancer,1
+57,Maria Heath,51,M,Internal Medicine,2024-05-19,2024-05-19,Hypertension,0
+58,Jason Graham,32,M,Pulmonology,2025-01-12,2025-01-23,Wheezing,1
+59,Max Allen,51,M,Internal Medicine,2023-06-05,2023-06-11,Diabetes,1
+60,Jennifer Adams,63,F,Surgery,2024-05-23,2024-06-05,Rectal cancer,1
+61,Adam Brown,55,M,Surgery,2023-05-19,2023-06-01,Cholelithiasis,1
+62,Samuel Gutierrez,67,F,Internal Medicine,2023-06-21,2023-07-02,Hypertension,1
+63,Nicole Patel,40,M,Internal Medicine,2022-11-28,2022-12-12,Hypertension,1
+64,Beth Smith,67,M,Surgery,2023-06-01,2023-06-01,Rectal cancer,0
+65,Brian White,66,M,Internal Medicine,2024-03-25,2024-04-11,Hypertension,1
+66,Mr. Johnny Arias DDS,44,M,Internal Medicine,2022-06-19,2022-07-01,Diabetes,1
+67,Thomas Walker,20,M,Cardiology,2022-05-01,2022-05-01,Heart failure,0
+68,Edward Cole,39,M,Surgery,2024-05-04,2024-05-04,Appendicitis,0
+69,Troy Henry,69,F,Surgery,2023-04-04,2023-04-24,Appendicitis,1
+70,Kyle Watson,49,F,Internal Medicine,2022-11-18,2022-11-18,Hypertension,0
+71,Zachary Hughes,60,M,Internal Medicine,2023-02-22,2023-03-09,Pneumonia,1
+72,John Ramsey,88,F,Internal Medicine,2024-11-09,2024-11-26,Diabetes,1
+73,Patricia Roberts,80,M,Cardiology,2023-01-17,2023-01-30,Heart failure,1
+74,Catherine Poole,22,F,Pulmonology,2024-10-08,2024-10-18,Shortness of breath,1
+75,Stephen Lyons,88,F,Surgery,2023-05-26,2023-06-12,Cholelithiasis,1
+76,Peter Harris,44,F,Pulmonology,2023-07-11,2023-07-16,Cough,1
+77,David Reynolds,51,F,Pulmonology,2023-09-22,2023-10-10,Wheezing,1
+78,Sara Johnson,40,M,Pulmonology,2023-12-01,2023-12-19,Cough,1
+79,Stacy Evans,26,F,Internal Medicine,2022-08-10,2022-08-10,Pneumonia,0
+80,Jeffrey Martinez,41,F,Internal Medicine,2023-07-31,2023-08-20,Pneumonia,1
+81,Lindsay Trevino,73,M,Cardiology,2024-06-20,2024-06-29,Heart failure,1
+82,Kenneth Summers,83,M,Pulmonology,2024-06-10,2024-06-10,Cough,0
+83,Maria Little,88,M,Pulmonology,2023-11-17,2023-11-24,Wheezing,1
+84,Amanda Ross,63,M,Cardiology,2025-02-17,2025-02-28,Myocardial infarction,1
+85,Michael White,52,F,Pulmonology,2023-08-30,2023-09-06,Cough,1
+86,Logan Garcia,21,F,Internal Medicine,2024-08-27,2024-08-27,Hypertension,0
+87,Jacob Barnett,76,M,Internal Medicine,2024-05-08,2024-05-28,Hypertension,1
+88,Christina Martinez,48,F,Cardiology,2022-08-04,2022-08-18,Angina,1
+89,Ruben Vasquez,58,F,Surgery,2024-03-04,2024-03-11,Cholelithiasis,1
+90,Michael Flores,82,F,Internal Medicine,2025-02-27,2025-03-04,Diabetes,1
+91,Luke Lee,89,M,Cardiology,2022-05-21,2022-05-21,Heart failure,0
+92,Dominique Bray,51,M,Cardiology,2023-03-18,2023-04-03,Myocardial infarction,1
+93,Raymond Munoz,25,M,Internal Medicine,2023-11-18,2023-12-05,Pneumonia,1
+94,Jose Holmes,85,F,Internal Medicine,2023-12-08,2023-12-24,Pneumonia,1
+95,Craig Williams,30,M,Internal Medicine,2022-11-23,2022-12-03,Pneumonia,1
+96,Brianna Smith,63,F,Surgery,2024-12-14,2024-12-22,Rectal cancer,1
+97,Christopher Lopez,82,F,Surgery,2023-02-15,2023-02-22,Appendicitis,1
+98,William Gregory,81,M,Surgery,2022-06-27,2022-07-06,Appendicitis,1
+99,Casey Arellano,66,M,Surgery,2024-08-07,2024-08-07,Rectal cancer,0
+100,Maria Campbell,56,M,Internal Medicine,2022-12-01,2022-12-11,Pneumonia,1
+101,Crystal Henry,70,M,Surgery,2023-03-21,2023-04-02,Cholelithiasis,1
+102,Roy Ellis,49,M,Surgery,2024-04-22,2024-04-22,Cholelithiasis,0
+103,Roberta Sweeney,78,M,Cardiology,2024-03-03,2024-03-18,Angina,1
+104,Patrick Price,46,M,Internal Medicine,2023-10-17,2023-11-01,Hypertension,1
+105,Dr. Maria Howell,89,M,Pulmonology,2024-05-10,2024-05-26,Cough,1
+106,Laura Campbell,43,M,Internal Medicine,2023-10-22,2023-11-01,Hypertension,1
+107,Sarah Figueroa,54,M,Surgery,2022-03-30,2022-04-10,Cholelithiasis,1
+108,April Webb,49,M,Surgery,2022-10-08,2022-10-08,Appendicitis,0
+109,Thomas Brooks,71,F,Cardiology,2023-05-23,2023-05-29,Heart failure,1
+110,Dr. Jeremy Nguyen,85,F,Cardiology,2024-06-03,2024-06-03,Myocardial infarction,0
+111,Kathleen Porter,85,F,Internal Medicine,2023-09-10,2023-09-28,Pneumonia,1
+112,Dustin Lopez,88,M,Internal Medicine,2023-01-01,2023-01-06,Hypertension,1
+113,Joshua Russell,46,M,Pulmonology,2022-04-01,2022-04-20,Shortness of breath,1
+114,Brian Washington,55,M,Cardiology,2024-07-06,2024-07-21,Angina,1
+115,Kelly Wolf,42,M,Surgery,2023-11-02,2023-11-13,Appendicitis,1
+116,Benjamin Gilmore,42,F,Cardiology,2024-02-05,2024-02-12,Heart failure,1
+117,Jacob Cole MD,71,F,Cardiology,2023-01-21,2023-02-03,Myocardial infarction,1
+118,Selena Woods,21,F,Cardiology,2022-12-24,2022-12-24,Myocardial infarction,0
+119,Jack Young,66,F,Pulmonology,2022-08-04,2022-08-13,Wheezing,1
+120,David Key,22,M,Cardiology,2024-01-25,2024-02-01,Heart failure,1
+121,Julian Diaz,26,F,Pulmonology,2022-07-22,2022-08-07,Shortness of breath,1
+122,Bethany Taylor,20,F,Surgery,2022-12-06,2022-12-06,Rectal cancer,0
+123,Emily Glass,38,M,Surgery,2022-07-28,2022-07-28,Rectal cancer,0
+124,Justin Marsh,46,F,Internal Medicine,2022-04-08,2022-04-22,Pneumonia,1
+125,Andrea Moore,90,M,Pulmonology,2022-05-17,2022-05-23,Shortness of breath,1
+126,Robert Frost,83,M,Surgery,2023-04-20,2023-04-20,Rectal cancer,0
+127,Alison Paul MD,44,M,Surgery,2023-12-20,2024-01-09,Cholelithiasis,1
+128,Stephanie Moran,88,M,Internal Medicine,2023-09-17,2023-09-28,Pneumonia,1
+129,Misty Lewis,36,M,Pulmonology,2022-03-18,2022-03-31,Shortness of breath,1
+130,Raymond Wilkinson,48,M,Surgery,2024-05-09,2024-05-14,Cholelithiasis,1
+131,Ashley Davis,89,F,Internal Medicine,2022-06-15,2022-06-15,Pneumonia,0
+132,Paula Park,67,F,Pulmonology,2022-08-26,2022-09-04,Cough,1
+133,Chad Morales,75,F,Cardiology,2022-03-18,2022-03-18,Myocardial infarction,0
+134,Rhonda Ramos,86,F,Cardiology,2024-05-05,2024-05-05,Myocardial infarction,0
+135,Derek Thompson,31,M,Cardiology,2023-07-05,2023-07-05,Angina,0
+136,Patricia Brown,33,M,Pulmonology,2025-03-02,2025-03-02,Cough,0
+137,Aaron Fletcher,32,M,Pulmonology,2022-06-09,2022-06-09,Wheezing,0
+138,Kim Le,66,F,Pulmonology,2023-02-22,2023-03-06,Shortness of breath,1
+139,James Stewart,71,M,Pulmonology,2024-02-14,2024-02-14,Shortness of breath,0
+140,Michael Rollins,67,F,Cardiology,2022-07-28,2022-08-06,Myocardial infarction,1
+141,Lisa Cantu,56,F,Cardiology,2022-07-16,2022-08-01,Angina,1
+142,Ashley Williams,25,F,Internal Medicine,2022-11-25,2022-11-25,Diabetes,0
+143,Hailey Davidson,81,F,Internal Medicine,2023-08-20,2023-08-20,Pneumonia,0
+144,Marcus Robles,65,M,Internal Medicine,2024-02-13,2024-02-13,Hypertension,0
+145,James Mitchell,22,F,Internal Medicine,2023-08-09,2023-08-09,Hypertension,0
+146,Michael Leonard,61,F,Cardiology,2023-01-15,2023-01-15,Heart failure,0
+147,April Freeman,58,F,Surgery,2024-09-19,2024-09-19,Rectal cancer,0
+148,Wendy Patel,86,M,Cardiology,2023-07-03,2023-07-16,Myocardial infarction,1
+149,Todd Chan,89,M,Cardiology,2025-01-20,2025-02-03,Heart failure,1
+150,Daniel Daniels,41,F,Pulmonology,2022-05-31,2022-06-13,Cough,1
+151,Danielle Berry,24,F,Internal Medicine,2023-09-09,2023-09-18,Pneumonia,1
+152,Erin Shaw,52,M,Cardiology,2023-06-13,2023-06-25,Myocardial infarction,1
+153,Carrie Noble,58,F,Surgery,2022-07-06,2022-07-12,Appendicitis,1
+154,Robert Roberts,78,F,Surgery,2023-04-14,2023-04-30,Rectal cancer,1
+155,Deborah Brock,24,F,Pulmonology,2024-10-17,2024-10-22,Shortness of breath,1
+156,Kathleen Swanson,73,M,Internal Medicine,2023-12-26,2024-01-11,Pneumonia,1
+157,Rachel Luna,55,F,Surgery,2025-01-11,2025-01-22,Appendicitis,1
+158,Sarah Huffman,21,F,Internal Medicine,2024-09-25,2024-09-25,Pneumonia,0
+159,Sarah Taylor,66,M,Surgery,2023-12-16,2023-12-21,Cholelithiasis,1
+160,Alicia Patel,31,F,Cardiology,2024-02-17,2024-02-24,Heart failure,1
+161,Michael Sanders,87,F,Cardiology,2025-01-01,2025-01-17,Myocardial infarction,1
+162,Brooke Chapman,54,M,Pulmonology,2022-07-18,2022-08-01,Cough,1
+163,John Oneill,61,F,Pulmonology,2024-05-13,2024-05-31,Shortness of breath,1
+164,James Jones,77,M,Cardiology,2023-07-10,2023-07-10,Heart failure,0
+165,Seth Curtis,58,M,Cardiology,2023-10-18,2023-10-30,Myocardial infarction,1
+166,Glenn Harvey,88,F,Internal Medicine,2022-07-07,2022-07-27,Hypertension,1
+167,Sarah Pace,80,F,Pulmonology,2024-05-21,2024-06-03,Cough,1
+168,Jessica Miller,86,F,Cardiology,2022-08-03,2022-08-18,Heart failure,1
+169,John Leonard,68,M,Cardiology,2022-04-29,2022-05-13,Myocardial infarction,1
+170,Brittany Delgado,71,F,Pulmonology,2023-09-11,2023-09-25,Shortness of breath,1
+171,Christopher York,52,F,Surgery,2024-12-07,2024-12-23,Rectal cancer,1
+172,Gloria Cameron,51,M,Pulmonology,2024-11-16,2024-11-25,Shortness of breath,1
+173,Jeffrey Morris,53,F,Internal Medicine,2022-10-14,2022-10-23,Diabetes,1
+174,Ariel Colon,25,F,Internal Medicine,2023-06-27,2023-07-09,Diabetes,1
+175,Matthew Atkinson,25,M,Surgery,2024-02-26,2024-03-03,Cholelithiasis,1
+176,Grace Weaver,25,M,Surgery,2022-04-21,2022-04-28,Cholelithiasis,1
+177,Kyle Long,43,M,Internal Medicine,2022-06-03,2022-06-10,Hypertension,1
+178,Lori Cochran,34,M,Surgery,2024-09-24,2024-09-24,Rectal cancer,0
+179,Brett Bird,61,F,Surgery,2022-11-01,2022-11-08,Appendicitis,1
+180,Patricia Brown,58,F,Internal Medicine,2023-07-08,2023-07-17,Pneumonia,1
+181,Clayton Miles,48,M,Surgery,2024-07-24,2024-07-29,Rectal cancer,1
+182,Karen Carter,61,M,Pulmonology,2022-06-02,2022-06-02,Wheezing,0
+183,Daniel Fitzpatrick,78,F,Cardiology,2024-05-11,2024-05-11,Angina,0
+184,Edward Zimmerman,40,F,Pulmonology,2024-05-25,2024-05-25,Wheezing,0
+185,Michael Washington,78,M,Internal Medicine,2023-12-25,2024-01-07,Pneumonia,1
+186,Rodney Villanueva,85,F,Internal Medicine,2024-08-08,2024-08-08,Diabetes,0
+187,Lisa Torres,59,M,Surgery,2024-12-29,2025-01-09,Cholelithiasis,1
+188,Thomas Stewart,83,F,Surgery,2024-05-16,2024-06-01,Appendicitis,1
+189,Ian Ball,43,M,Surgery,2023-08-18,2023-08-18,Rectal cancer,0
+190,Stephanie Levy,25,F,Pulmonology,2022-08-12,2022-08-22,Cough,1
+191,Stephanie Moore,65,M,Cardiology,2024-04-24,2024-05-07,Myocardial infarction,1
+192,Justin Rollins,41,M,Surgery,2022-10-05,2022-10-05,Appendicitis,0
+193,Jacob Wilkerson,52,F,Pulmonology,2023-03-19,2023-03-19,Shortness of breath,0
+194,Matthew Barnes,63,F,Pulmonology,2024-01-17,2024-01-17,Wheezing,0
+195,Nathaniel Williams,69,F,Surgery,2023-12-10,2023-12-10,Rectal cancer,0
+196,Deborah Mitchell,52,M,Surgery,2024-11-17,2024-12-04,Appendicitis,1
+197,Angela Clark,81,F,Surgery,2024-06-10,2024-06-19,Cholelithiasis,1
+198,Anthony Jenkins,77,F,Cardiology,2024-05-02,2024-05-15,Angina,1
+199,Jennifer York,36,M,Internal Medicine,2024-02-25,2024-03-11,Hypertension,1
+200,Marcus Page,39,M,Pulmonology,2022-12-31,2023-01-08,Shortness of breath,1
+201,Brandy Williams,85,F,Pulmonology,2023-03-07,2023-03-25,Cough,1
+202,Juan Bailey,48,M,Surgery,2024-01-07,2024-01-07,Cholelithiasis,0
+203,Miranda Gregory,61,F,Surgery,2024-05-08,2024-05-08,Appendicitis,0
+204,Kathy Lawson,88,M,Pulmonology,2023-08-08,2023-08-13,Shortness of breath,1
+205,Nicholas Hebert,83,M,Pulmonology,2024-05-29,2024-06-04,Cough,1
+206,Jennifer Moreno,77,M,Cardiology,2024-11-29,2024-11-29,Heart failure,0
+207,Frank Hamilton,49,M,Pulmonology,2023-04-30,2023-04-30,Wheezing,0
+208,Monica Hansen,50,M,Cardiology,2025-01-02,2025-01-11,Heart failure,1
+209,Susan Delgado MD,70,F,Pulmonology,2022-09-11,2022-09-22,Cough,1
+210,Bradley Becker,40,F,Internal Medicine,2023-08-30,2023-09-09,Pneumonia,1
+211,Donald House,42,M,Surgery,2024-09-12,2024-09-22,Appendicitis,1
+212,Patrick Larsen,28,F,Pulmonology,2024-06-06,2024-06-19,Wheezing,1
+213,Mercedes Moore,82,M,Pulmonology,2024-02-24,2024-03-02,Wheezing,1
+214,Nathaniel Kim,39,F,Internal Medicine,2025-01-02,2025-01-02,Diabetes,0
+215,Kristin Horne,76,M,Internal Medicine,2023-09-05,2023-09-20,Hypertension,1
+216,Amanda White,22,F,Cardiology,2023-08-01,2023-08-01,Heart failure,0
+217,Sherry Larson,77,M,Pulmonology,2024-10-11,2024-10-30,Shortness of breath,1
+218,Cynthia Cook,84,F,Surgery,2023-09-20,2023-10-04,Rectal cancer,1
+219,Kimberly Gregory,57,M,Pulmonology,2024-02-02,2024-02-18,Cough,1
+220,Anthony Ferguson,31,F,Pulmonology,2024-02-21,2024-03-11,Shortness of breath,1
+221,Gloria Hayes,38,F,Surgery,2024-11-05,2024-11-19,Cholelithiasis,1
+222,Jesse Dean,25,F,Internal Medicine,2024-03-19,2024-03-19,Hypertension,0
+223,Leslie Lucas,51,M,Cardiology,2025-01-11,2025-01-19,Myocardial infarction,1
+224,Kathryn Burton,20,F,Pulmonology,2023-09-26,2023-10-09,Shortness of breath,1
+225,Jason Roth,77,F,Internal Medicine,2024-07-10,2024-07-10,Diabetes,0
+226,Lori Hernandez,70,F,Pulmonology,2023-11-23,2023-12-12,Shortness of breath,1
+227,Kathleen Gibson,29,M,Cardiology,2024-09-20,2024-09-20,Heart failure,0
+228,Michael Taylor,86,M,Cardiology,2024-01-24,2024-02-01,Heart failure,1
+229,Edward Escobar,65,F,Pulmonology,2022-09-29,2022-10-19,Wheezing,1
+230,Curtis Hill,39,M,Pulmonology,2023-07-27,2023-08-09,Shortness of breath,1
+231,Cynthia Taylor,26,M,Cardiology,2025-01-23,2025-01-29,Heart failure,1
+232,Raymond Phillips,47,F,Cardiology,2022-08-24,2022-08-31,Myocardial infarction,1
+233,Emily Wilson,41,F,Cardiology,2023-01-20,2023-01-30,Myocardial infarction,1
+234,Micheal Henderson,31,M,Cardiology,2023-09-08,2023-09-08,Heart failure,0
+235,Mr. Stephen Patel,29,M,Internal Medicine,2024-03-24,2024-04-11,Pneumonia,1
+236,Ashley Logan,72,M,Cardiology,2022-06-29,2022-07-12,Myocardial infarction,1
+237,Deborah Williams,89,M,Pulmonology,2023-10-02,2023-10-02,Cough,0
+238,Carly Herrera,50,F,Cardiology,2022-03-22,2022-03-30,Heart failure,1
+239,Candice Mathews,69,F,Pulmonology,2022-12-15,2022-12-31,Wheezing,1
+240,Joseph Miller,70,F,Internal Medicine,2024-01-28,2024-01-28,Pneumonia,0
+241,Jasmine Campos,48,F,Cardiology,2023-02-02,2023-02-18,Myocardial infarction,1
+242,James Taylor,29,M,Surgery,2023-10-25,2023-10-25,Cholelithiasis,0
+243,Tara Green,55,F,Pulmonology,2023-10-27,2023-11-08,Shortness of breath,1
+244,Michael Maldonado,43,M,Surgery,2022-09-13,2022-10-03,Cholelithiasis,1
+245,Jennifer Gibson,85,M,Cardiology,2023-07-16,2023-08-03,Heart failure,1
+246,Chloe Chavez,68,M,Surgery,2023-07-24,2023-08-06,Rectal cancer,1
+247,Wanda Turner DDS,83,M,Surgery,2025-01-18,2025-01-23,Cholelithiasis,1
+248,Andre Harrington,59,F,Pulmonology,2023-05-15,2023-05-15,Shortness of breath,0
+249,Mrs. Jennifer Lucas,90,M,Pulmonology,2022-07-01,2022-07-10,Cough,1
+250,Mrs. Brenda Hanson,42,F,Cardiology,2024-06-07,2024-06-07,Myocardial infarction,0
+251,Arthur Hodge,88,M,Surgery,2024-07-10,2024-07-21,Appendicitis,1
+252,Michael Hancock,25,M,Surgery,2023-10-29,2023-11-17,Appendicitis,1
+253,Joshua Pierce Jr.,42,M,Cardiology,2022-06-28,2022-07-14,Myocardial infarction,1
+254,John Ford,37,M,Cardiology,2023-02-01,2023-02-14,Heart failure,1
+255,Jesse Walker,78,M,Surgery,2022-05-10,2022-05-30,Cholelithiasis,1
+256,Mathew Juarez,28,M,Surgery,2023-09-27,2023-09-27,Rectal cancer,0
+257,Jacob Thomas,35,F,Cardiology,2022-09-24,2022-10-08,Heart failure,1
+258,David Hernandez,53,F,Internal Medicine,2023-10-27,2023-10-27,Pneumonia,0
+259,Lisa Thompson PhD,23,M,Cardiology,2022-07-07,2022-07-07,Heart failure,0
+260,Mrs. April Perez,53,M,Surgery,2024-04-10,2024-04-26,Rectal cancer,1
+261,James Wright,53,F,Pulmonology,2024-05-06,2024-05-26,Wheezing,1
+262,Thomas Lopez,61,F,Internal Medicine,2023-08-11,2023-08-11,Pneumonia,0
+263,Vicki Nelson,35,M,Cardiology,2023-11-07,2023-11-19,Heart failure,1
+264,Alyssa Crawford,50,M,Pulmonology,2023-10-10,2023-10-19,Wheezing,1
+265,Ian Webster,33,F,Internal Medicine,2024-06-09,2024-06-27,Diabetes,1
+266,Patricia Young,56,F,Internal Medicine,2023-12-29,2023-12-29,Hypertension,0
+267,Theresa Reilly,42,M,Cardiology,2022-05-21,2022-05-27,Angina,1
+268,John Thomas,49,F,Surgery,2024-11-04,2024-11-12,Appendicitis,1
+269,Rachel Wilson,37,F,Surgery,2022-12-01,2022-12-09,Cholelithiasis,1
+270,George Walker,73,M,Surgery,2024-01-17,2024-01-17,Rectal cancer,0
+271,Kathy Hughes,43,F,Cardiology,2023-03-05,2023-03-05,Heart failure,0
+272,Joshua Horton,64,F,Internal Medicine,2023-04-23,2023-05-01,Hypertension,1
+273,Carolyn Washington,56,M,Pulmonology,2022-03-21,2022-04-04,Cough,1
+274,Timothy Barrett MD,57,M,Internal Medicine,2024-09-19,2024-09-28,Diabetes,1
+275,Melissa Weiss,32,M,Cardiology,2024-03-23,2024-03-23,Heart failure,0
+276,Cynthia Higgins,62,F,Cardiology,2023-01-07,2023-01-07,Myocardial infarction,0
+277,Lucas Cox,57,F,Cardiology,2023-06-08,2023-06-08,Myocardial infarction,0
+278,Kathryn Fischer,30,F,Pulmonology,2022-10-19,2022-10-19,Wheezing,0
+279,Brittany Jennings,49,M,Pulmonology,2024-11-17,2024-12-06,Shortness of breath,1
+280,Kevin George,27,M,Pulmonology,2023-12-16,2023-12-26,Wheezing,1
+281,Michael Beard,35,M,Cardiology,2024-10-07,2024-10-07,Angina,0
+282,Sarah Moore,77,M,Cardiology,2023-02-21,2023-03-09,Heart failure,1
+283,Christine Lopez,57,M,Surgery,2024-12-01,2024-12-18,Cholelithiasis,1
+284,Paula Brown,84,M,Cardiology,2023-11-27,2023-11-27,Angina,0
+285,Melissa Ramirez,46,M,Surgery,2022-07-16,2022-07-31,Rectal cancer,1
+286,Sarah Garcia,23,F,Internal Medicine,2024-03-10,2024-03-19,Diabetes,1
+287,Ronald Proctor,40,M,Surgery,2023-10-24,2023-10-24,Cholelithiasis,0
+288,Stanley Thompson,30,M,Surgery,2023-09-18,2023-09-23,Cholelithiasis,1
+289,Donna Mills,49,F,Cardiology,2024-07-06,2024-07-25,Myocardial infarction,1
+290,Ann Vasquez,79,F,Surgery,2023-03-10,2023-03-20,Rectal cancer,1
+291,Ruth Delgado,63,F,Surgery,2023-05-24,2023-06-04,Cholelithiasis,1
+292,Linda Buck,66,M,Cardiology,2023-11-20,2023-11-20,Angina,0
+293,Dawn Snow,49,M,Cardiology,2023-06-28,2023-07-04,Heart failure,1
+294,Andrew Ellis,68,M,Surgery,2023-11-30,2023-12-12,Appendicitis,1
+295,Brianna Browning,39,F,Surgery,2024-06-12,2024-06-12,Rectal cancer,0
+296,Cody Owens,67,M,Internal Medicine,2022-07-17,2022-07-23,Diabetes,1
+297,Austin Medina,44,F,Cardiology,2024-10-09,2024-10-14,Angina,1
+298,Shawn Jenkins,72,F,Cardiology,2022-09-13,2022-09-18,Angina,1
+299,Brian Cox,64,M,Internal Medicine,2022-08-14,2022-08-14,Pneumonia,0
+300,Austin Doyle,88,M,Internal Medicine,2024-10-14,2024-10-14,Hypertension,0
+301,Jennifer Morgan,58,M,Pulmonology,2024-07-21,2024-07-28,Shortness of breath,1
+302,Christian Craig,65,M,Surgery,2023-04-13,2023-04-24,Appendicitis,1
+303,Andres Morales,20,M,Surgery,2024-01-29,2024-02-05,Rectal cancer,1
+304,Steven Jones,29,F,Surgery,2022-12-27,2023-01-02,Appendicitis,1
+305,Jessica Macdonald,40,M,Pulmonology,2023-11-03,2023-11-09,Wheezing,1
+306,Anna Graham,85,F,Internal Medicine,2022-12-05,2022-12-11,Pneumonia,1
+307,Natalie Carey,36,M,Surgery,2022-06-25,2022-07-09,Rectal cancer,1
+308,Dawn Neal,79,F,Cardiology,2022-12-02,2022-12-15,Angina,1
+309,Paul Bentley,33,F,Pulmonology,2024-11-21,2024-11-27,Shortness of breath,1
+310,Mrs. Jessica Hammond,88,F,Cardiology,2023-07-08,2023-07-24,Myocardial infarction,1
+311,Adam Calderon,64,M,Pulmonology,2022-08-02,2022-08-02,Shortness of breath,0
+312,Rebecca Ellis,64,F,Cardiology,2023-11-21,2023-11-21,Angina,0
+313,Eric Hoffman,65,M,Surgery,2023-10-04,2023-10-15,Rectal cancer,1
+314,William Miller MD,72,F,Pulmonology,2025-01-25,2025-02-02,Wheezing,1
+315,Daniel Powers,37,M,Pulmonology,2024-03-21,2024-03-28,Wheezing,1
+316,Catherine Petersen,25,F,Cardiology,2024-01-14,2024-02-03,Myocardial infarction,1
+317,Robert Odonnell,32,F,Cardiology,2023-09-10,2023-09-18,Angina,1
+318,Alan Ruiz,41,M,Cardiology,2024-05-18,2024-06-05,Heart failure,1
+319,Joseph Kane,47,F,Pulmonology,2023-04-06,2023-04-06,Wheezing,0
+320,Heather Boyd,51,F,Cardiology,2024-12-24,2025-01-09,Angina,1
+321,Linda Mcpherson,61,F,Internal Medicine,2022-10-23,2022-10-23,Pneumonia,0
+322,Julia Davis,20,F,Surgery,2024-02-10,2024-02-26,Appendicitis,1
+323,Lawrence Richards,58,F,Pulmonology,2024-10-18,2024-11-03,Cough,1
+324,Gabriel Hodges,63,F,Internal Medicine,2023-05-12,2023-05-21,Pneumonia,1
+325,Tyler Smith,30,M,Cardiology,2025-01-20,2025-01-28,Angina,1
+326,Desiree Carroll,24,F,Surgery,2023-12-31,2023-12-31,Appendicitis,0
+327,Marcus Smith,24,F,Internal Medicine,2022-03-01,2022-03-19,Hypertension,1
+328,Billy Reeves,53,M,Pulmonology,2022-08-23,2022-09-05,Wheezing,1
+329,Debra Martin,51,F,Surgery,2023-08-26,2023-08-26,Rectal cancer,0
+330,Andrea Reyes,80,F,Internal Medicine,2024-04-26,2024-04-26,Hypertension,0
+331,Daniel Johnson II,33,M,Surgery,2022-10-24,2022-10-24,Rectal cancer,0
+332,Bobby Salinas,84,M,Cardiology,2024-12-10,2024-12-18,Heart failure,1
+333,Wendy Rodriguez,77,M,Cardiology,2022-10-29,2022-11-08,Heart failure,1
+334,Kelsey Hernandez,28,M,Cardiology,2024-11-29,2024-12-08,Heart failure,1
+335,Michelle Cole,48,M,Internal Medicine,2022-10-27,2022-11-02,Pneumonia,1
+336,Laurie Young,53,M,Pulmonology,2022-08-16,2022-08-16,Wheezing,0
+337,Jenny Juarez,55,F,Pulmonology,2024-10-30,2024-11-10,Wheezing,1
+338,Kevin Graham,47,F,Pulmonology,2024-04-11,2024-04-11,Cough,0
+339,Jason Arnold,31,M,Internal Medicine,2023-09-08,2023-09-22,Diabetes,1
+340,Dr. Kathleen Oliver,44,M,Surgery,2024-02-13,2024-02-26,Rectal cancer,1
+341,Bryan Klein,73,M,Cardiology,2022-04-20,2022-04-30,Heart failure,1
+342,Martha Burns,29,F,Internal Medicine,2022-03-11,2022-03-11,Pneumonia,0
+343,Donna Wolfe,89,F,Pulmonology,2024-10-23,2024-11-10,Wheezing,1
+344,Francisco Perez,85,F,Surgery,2022-12-15,2022-12-29,Rectal cancer,1
+345,Theodore Bishop,26,M,Internal Medicine,2024-11-19,2024-11-19,Hypertension,0
+346,Malik Allen,87,M,Pulmonology,2024-04-27,2024-05-15,Wheezing,1
+347,Joshua Vasquez,63,M,Surgery,2023-08-04,2023-08-04,Appendicitis,0
+348,Melissa Joseph,66,F,Internal Medicine,2023-12-29,2023-12-29,Hypertension,0
+349,Alexis Huang,68,M,Internal Medicine,2023-01-14,2023-01-20,Pneumonia,1
+350,Cheryl Miller,47,F,Surgery,2024-05-27,2024-06-16,Cholelithiasis,1
+351,Roger Short,20,M,Surgery,2023-06-19,2023-07-03,Rectal cancer,1
+352,Richard Jones,40,M,Internal Medicine,2024-05-31,2024-06-15,Pneumonia,1
+353,Melissa Adams,82,M,Surgery,2023-09-02,2023-09-08,Appendicitis,1
+354,Tonya Lawson,47,M,Internal Medicine,2022-06-21,2022-06-21,Hypertension,0
+355,Steven Parsons,51,F,Cardiology,2024-01-07,2024-01-07,Angina,0
+356,Mr. David Smith,61,M,Cardiology,2022-09-15,2022-09-15,Angina,0
+357,Troy Williams,37,F,Pulmonology,2023-09-10,2023-09-27,Shortness of breath,1
+358,Stephanie Freeman,55,M,Pulmonology,2023-05-28,2023-05-28,Shortness of breath,0
+359,Kathleen Santos,77,M,Pulmonology,2022-08-16,2022-08-23,Wheezing,1
+360,Marissa Mullins,41,M,Pulmonology,2023-10-31,2023-11-19,Shortness of breath,1
+361,Samantha Horton,66,F,Internal Medicine,2024-10-03,2024-10-03,Hypertension,0
+362,Jennifer Johnson,74,F,Cardiology,2022-09-16,2022-09-21,Myocardial infarction,1
+363,Elizabeth Lambert,47,M,Surgery,2025-02-01,2025-02-09,Rectal cancer,1
+364,Michael Ramirez,35,F,Surgery,2024-03-19,2024-03-19,Rectal cancer,0
+365,Amanda Adams,66,M,Cardiology,2024-11-17,2024-12-06,Angina,1
+366,Jasmine Holmes,57,M,Surgery,2024-11-15,2024-11-15,Cholelithiasis,0
+367,Hannah Delgado,55,F,Surgery,2025-01-10,2025-01-28,Rectal cancer,1
+368,Kendra Hester,82,F,Internal Medicine,2024-10-18,2024-10-18,Diabetes,0
+369,Sharon Dunn,41,F,Internal Medicine,2024-04-16,2024-05-02,Hypertension,1
+370,Paul Bell,61,F,Cardiology,2023-04-26,2023-04-26,Angina,0
+371,Jesse Lee,29,M,Surgery,2023-11-13,2023-11-19,Appendicitis,1
+372,Roger Aguilar,84,M,Cardiology,2024-10-07,2024-10-14,Myocardial infarction,1
+373,Tracy Smith,77,F,Surgery,2023-10-11,2023-10-11,Cholelithiasis,0
+374,Matthew Chandler,38,F,Pulmonology,2023-02-04,2023-02-14,Cough,1
+375,Brett Edwards DDS,87,F,Cardiology,2022-06-20,2022-06-29,Heart failure,1
+376,Vincent Edwards,47,F,Internal Medicine,2025-01-10,2025-01-27,Diabetes,1
+377,Spencer Jacobson,70,M,Surgery,2024-06-06,2024-06-06,Rectal cancer,0
+378,Elizabeth Sims,47,M,Pulmonology,2022-08-06,2022-08-15,Shortness of breath,1
+379,Brett Thomas,73,F,Internal Medicine,2022-06-07,2022-06-12,Pneumonia,1
+380,Denise David,57,F,Surgery,2022-04-24,2022-04-24,Rectal cancer,0
+381,Kevin Roberts,20,F,Pulmonology,2022-11-15,2022-11-27,Wheezing,1
+382,Marcus Nunez,50,F,Pulmonology,2022-03-11,2022-03-11,Cough,0
+383,Kimberly Molina,88,F,Pulmonology,2023-05-18,2023-05-28,Wheezing,1
+384,Courtney Marshall,20,F,Pulmonology,2022-05-16,2022-05-21,Cough,1
+385,Dalton Clark,82,F,Surgery,2024-02-11,2024-02-28,Cholelithiasis,1
+386,Ryan Carpenter,84,M,Pulmonology,2023-07-04,2023-07-04,Wheezing,0
+387,Stephanie Lam,29,F,Surgery,2024-02-14,2024-02-29,Appendicitis,1
+388,Leslie Mora,49,M,Surgery,2022-11-30,2022-12-08,Rectal cancer,1
+389,Amanda Cabrera,48,M,Cardiology,2022-09-02,2022-09-14,Heart failure,1
+390,Tamara Cohen,28,M,Internal Medicine,2024-11-24,2024-11-24,Pneumonia,0
+391,Riley Robinson,84,M,Pulmonology,2022-09-29,2022-10-08,Shortness of breath,1
+392,Tom Thompson Jr.,42,M,Cardiology,2023-11-22,2023-11-29,Myocardial infarction,1
+393,Courtney Yoder,52,F,Pulmonology,2022-07-17,2022-07-26,Wheezing,1
+394,Kristie Vargas,48,F,Surgery,2022-06-11,2022-06-16,Appendicitis,1
+395,Ivan Green,42,F,Surgery,2023-12-23,2024-01-03,Cholelithiasis,1
+396,Mrs. Karen Williams DDS,56,M,Pulmonology,2024-08-20,2024-09-08,Cough,1
+397,Richard Rodriguez,23,M,Pulmonology,2022-04-02,2022-04-02,Shortness of breath,0
+398,Gregory Vaughn,29,M,Pulmonology,2024-04-28,2024-05-08,Shortness of breath,1
+399,Crystal Murphy,30,F,Internal Medicine,2024-06-04,2024-06-20,Hypertension,1
+400,Michael Tucker DDS,84,F,Surgery,2022-03-30,2022-03-30,Rectal cancer,0
+401,Sean Williams,33,F,Surgery,2024-06-18,2024-06-18,Cholelithiasis,0
+402,Samantha Hall,44,M,Cardiology,2024-06-10,2024-06-18,Heart failure,1
+403,Arthur Pollard,61,F,Surgery,2024-10-18,2024-10-27,Appendicitis,1
+404,Luke Cruz,85,F,Surgery,2023-01-17,2023-01-28,Cholelithiasis,1
+405,Joel Johnson,28,M,Pulmonology,2024-11-27,2024-12-17,Wheezing,1
+406,Nicole Clayton,80,M,Surgery,2023-08-01,2023-08-16,Cholelithiasis,1
+407,Michelle Hammond,53,M,Surgery,2023-08-20,2023-08-20,Rectal cancer,0
+408,Deborah Watkins,47,F,Cardiology,2023-05-05,2023-05-20,Angina,1
+409,Cynthia Williamson,90,F,Surgery,2024-04-09,2024-04-09,Rectal cancer,0
+410,Cameron Reeves DVM,42,F,Cardiology,2023-06-05,2023-06-10,Myocardial infarction,1
+411,Bruce Gibbs,22,F,Surgery,2022-04-12,2022-04-12,Cholelithiasis,0
+412,Dana Phillips,33,F,Surgery,2024-07-19,2024-07-19,Cholelithiasis,0
+413,Thomas Strong,86,F,Internal Medicine,2024-07-15,2024-07-15,Hypertension,0
+414,Daniel Strong,70,F,Surgery,2024-08-05,2024-08-10,Cholelithiasis,1
+415,Tara Ross,58,F,Surgery,2022-08-17,2022-08-25,Appendicitis,1
+416,Raymond Garza,44,F,Pulmonology,2022-05-25,2022-05-25,Wheezing,0
+417,John Richardson,35,M,Internal Medicine,2024-08-26,2024-09-05,Pneumonia,1
+418,Marie Dudley,90,F,Internal Medicine,2022-08-10,2022-08-10,Diabetes,0
+419,Jennifer Torres,71,F,Internal Medicine,2022-07-30,2022-08-15,Hypertension,1
+420,Adam Smith,79,F,Pulmonology,2024-05-11,2024-05-16,Shortness of breath,1
+421,Spencer Spencer,65,M,Pulmonology,2024-05-16,2024-05-27,Wheezing,1
+422,Robert Erickson,33,M,Internal Medicine,2022-05-17,2022-05-26,Diabetes,1
+423,Kaitlyn Hill,37,F,Surgery,2022-12-05,2022-12-05,Rectal cancer,0
+424,Ana Velazquez,43,M,Surgery,2023-10-25,2023-10-25,Appendicitis,0
+425,Larry Williams,33,M,Pulmonology,2023-08-06,2023-08-19,Cough,1
+426,Heather Williams,52,M,Pulmonology,2024-11-16,2024-11-16,Wheezing,0
+427,Lindsay Griffin,23,M,Pulmonology,2022-11-14,2022-11-14,Wheezing,0
+428,Dave Vargas,41,F,Surgery,2024-01-02,2024-01-12,Appendicitis,1
+429,Samuel Durham,70,M,Cardiology,2024-10-07,2024-10-07,Heart failure,0
+430,Sonya Cox,36,F,Surgery,2024-07-17,2024-08-02,Cholelithiasis,1
+431,Raven Porter,65,M,Surgery,2022-10-13,2022-10-13,Rectal cancer,0
+432,Jason Richardson,47,F,Pulmonology,2024-02-11,2024-02-11,Wheezing,0
+433,Kevin King,90,M,Cardiology,2022-03-30,2022-04-15,Myocardial infarction,1
+434,Julie Wright,58,M,Surgery,2023-09-23,2023-10-05,Rectal cancer,1
+435,Bradley Meadows,76,F,Pulmonology,2023-11-04,2023-11-13,Wheezing,1
+436,Mr. Christopher Walters,72,M,Cardiology,2022-12-03,2022-12-03,Heart failure,0
+437,Thomas Smith,27,M,Pulmonology,2023-04-27,2023-05-12,Wheezing,1
+438,Heather Grant,73,M,Internal Medicine,2024-09-21,2024-09-21,Diabetes,0
+439,Meagan Allen,80,M,Internal Medicine,2022-04-17,2022-04-17,Hypertension,0
+440,Theresa Snow,21,F,Surgery,2022-03-28,2022-04-02,Rectal cancer,1
+441,John Morris,78,F,Pulmonology,2022-08-05,2022-08-12,Shortness of breath,1
+442,Kristen Romero,59,F,Internal Medicine,2023-01-06,2023-01-24,Pneumonia,1
+443,Wanda Arellano,79,F,Pulmonology,2025-01-03,2025-01-03,Wheezing,0
+444,Michael Wilson,66,M,Pulmonology,2023-06-09,2023-06-09,Wheezing,0
+445,Keith Barber,20,M,Surgery,2022-12-22,2022-12-22,Appendicitis,0
+446,Martin Hill,72,F,Internal Medicine,2022-05-29,2022-06-08,Pneumonia,1
+447,Tanner Sloan,36,M,Cardiology,2024-01-05,2024-01-19,Heart failure,1
+448,Mathew Ellis,76,F,Surgery,2022-10-24,2022-10-31,Appendicitis,1
+449,Jacob Hopkins,23,F,Cardiology,2024-02-22,2024-03-12,Angina,1
+450,Kara Smith,27,M,Internal Medicine,2022-04-18,2022-05-07,Pneumonia,1
+451,Angela Miles,39,M,Internal Medicine,2023-03-24,2023-04-06,Hypertension,1
+452,Carol Weber,57,F,Cardiology,2023-07-24,2023-07-24,Heart failure,0
+453,Kevin Moore DDS,50,F,Cardiology,2024-09-15,2024-09-15,Angina,0
+454,Stephen Nelson,89,F,Cardiology,2023-03-18,2023-04-01,Angina,1
+455,Oscar Perez,87,M,Internal Medicine,2024-02-29,2024-03-07,Pneumonia,1
+456,Duane Lewis DDS,39,M,Cardiology,2023-03-29,2023-03-29,Heart failure,0
+457,Robin Gray,20,M,Cardiology,2023-09-22,2023-10-01,Angina,1
+458,Christopher Cantrell,90,F,Surgery,2024-02-20,2024-03-09,Cholelithiasis,1
+459,Jerome Wolfe,69,M,Pulmonology,2023-04-07,2023-04-16,Wheezing,1
+460,Kelly Roth,25,M,Surgery,2023-04-22,2023-05-12,Appendicitis,1
+461,Jennifer Myers,49,M,Cardiology,2024-07-01,2024-07-09,Angina,1
+462,Joseph Odom,57,F,Internal Medicine,2022-11-22,2022-11-22,Pneumonia,0
+463,Scott Johnson,24,M,Internal Medicine,2025-01-10,2025-01-28,Diabetes,1
+464,Patrick Adams,68,F,Surgery,2023-08-23,2023-09-07,Rectal cancer,1
+465,Bethany Brooks,41,F,Cardiology,2024-05-13,2024-05-24,Angina,1
+466,Megan Owens,49,M,Cardiology,2024-11-17,2024-12-02,Angina,1
+467,Kayla Lane,28,M,Pulmonology,2022-06-23,2022-07-12,Wheezing,1
+468,Tiffany Barnes,75,M,Pulmonology,2024-12-26,2025-01-14,Shortness of breath,1
+469,Angel Petersen,66,F,Internal Medicine,2024-02-06,2024-02-06,Hypertension,0
+470,Christopher Lyons,34,F,Surgery,2025-02-17,2025-03-09,Cholelithiasis,1
+471,Sabrina Jenkins,59,M,Pulmonology,2022-12-03,2022-12-03,Cough,0
+472,Felicia White MD,46,F,Cardiology,2023-01-25,2023-02-08,Angina,1
+473,Andrea Brock,43,F,Pulmonology,2022-10-03,2022-10-10,Shortness of breath,1
+474,Roy Wells,43,M,Surgery,2024-07-14,2024-07-24,Rectal cancer,1
+475,Amanda House,21,F,Pulmonology,2023-04-19,2023-04-19,Cough,0
+476,Tina Carpenter,29,M,Internal Medicine,2023-06-11,2023-06-17,Pneumonia,1
+477,Jeffery Griffin,26,M,Internal Medicine,2025-01-04,2025-01-04,Pneumonia,0
+478,Jessica Curtis,20,F,Internal Medicine,2022-06-21,2022-07-07,Diabetes,1
+479,Brandi Harvey,44,F,Internal Medicine,2023-01-04,2023-01-11,Diabetes,1
+480,Mark Miller,62,M,Pulmonology,2023-04-01,2023-04-01,Shortness of breath,0
+481,Dana Hudson,50,F,Surgery,2022-11-10,2022-11-24,Appendicitis,1
+482,Holly Hicks,56,F,Pulmonology,2025-01-26,2025-01-26,Wheezing,0
+483,Robert Turner,76,F,Internal Medicine,2024-03-15,2024-03-15,Hypertension,0
+484,Deborah Castillo,90,M,Surgery,2024-08-03,2024-08-10,Rectal cancer,1
+485,Barbara Murray,45,F,Cardiology,2024-03-16,2024-03-16,Angina,0
+486,Michelle Brown,56,M,Surgery,2024-08-09,2024-08-28,Appendicitis,1
+487,Trevor Watson,78,M,Surgery,2023-08-18,2023-09-03,Cholelithiasis,1
+488,Jake Benjamin MD,42,F,Internal Medicine,2024-04-29,2024-04-29,Pneumonia,0
+489,Jacqueline Cox,30,M,Internal Medicine,2024-06-22,2024-06-22,Diabetes,0
+490,Samuel Berry,40,M,Internal Medicine,2023-10-15,2023-10-20,Pneumonia,1
+491,Melissa Davis,53,F,Pulmonology,2024-06-23,2024-07-01,Shortness of breath,1
+492,Mary Weber,83,F,Cardiology,2024-08-06,2024-08-14,Heart failure,1
+493,Robin Kennedy,25,F,Pulmonology,2023-02-28,2023-02-28,Wheezing,0
+494,Bonnie Padilla,28,M,Pulmonology,2024-07-18,2024-07-18,Shortness of breath,0
+495,Erin Johnson,67,M,Internal Medicine,2023-05-06,2023-05-18,Hypertension,1
+496,Kayla Parsons,54,F,Cardiology,2025-01-28,2025-02-13,Heart failure,1
+497,Alex Mccoy,26,M,Pulmonology,2022-11-14,2022-11-25,Shortness of breath,1
+498,Stephanie Smith,53,F,Internal Medicine,2022-07-28,2022-08-17,Diabetes,1
+499,Sherri Davis,44,F,Internal Medicine,2024-04-14,2024-04-28,Pneumonia,1
+500,Travis Cox,37,F,Internal Medicine,2025-01-16,2025-02-01,Diabetes,1
+501,Roger Pierce,30,M,Cardiology,2024-09-21,2024-09-21,Heart failure,0
+502,David Frederick,35,F,Cardiology,2022-08-12,2022-08-12,Myocardial infarction,0
+503,Seth Parker,21,M,Internal Medicine,2022-05-19,2022-05-24,Hypertension,1
+504,Tony Edwards,59,F,Surgery,2023-09-06,2023-09-21,Rectal cancer,1
+505,Deanna Mcdonald,39,M,Surgery,2023-12-20,2024-01-03,Rectal cancer,1
+506,Dustin Gonzalez,47,F,Internal Medicine,2024-12-28,2025-01-10,Pneumonia,1
+507,Matthew Middleton,43,F,Internal Medicine,2023-09-29,2023-10-18,Hypertension,1
+508,Jamie Harrison,65,M,Pulmonology,2022-06-05,2022-06-05,Shortness of breath,0
+509,Donald Ramirez,42,M,Cardiology,2023-04-22,2023-04-28,Myocardial infarction,1
+510,Kirk Smith,23,M,Surgery,2022-12-03,2022-12-15,Appendicitis,1
+511,Nicole Morgan,64,M,Surgery,2024-03-06,2024-03-25,Cholelithiasis,1
+512,Lisa Ramos,45,F,Surgery,2024-02-10,2024-03-01,Cholelithiasis,1
+513,Gregory Gomez,65,F,Surgery,2024-01-26,2024-02-08,Cholelithiasis,1
+514,Pamela Lester,44,F,Cardiology,2023-09-20,2023-10-03,Heart failure,1
+515,Eric Figueroa,38,M,Internal Medicine,2022-11-28,2022-12-12,Hypertension,1
+516,Matthew Carroll,71,F,Internal Medicine,2024-03-22,2024-03-22,Hypertension,0
+517,Linda Wolfe,47,F,Surgery,2023-02-05,2023-02-12,Cholelithiasis,1
+518,Alexis Richardson,24,F,Internal Medicine,2024-10-04,2024-10-22,Hypertension,1
+519,Kevin Bradford,23,F,Pulmonology,2022-10-05,2022-10-11,Cough,1
+520,Carmen Huerta,73,F,Pulmonology,2023-03-25,2023-03-25,Wheezing,0
+521,Edward Adams,29,M,Surgery,2022-05-29,2022-06-15,Cholelithiasis,1
+522,Diane Fernandez,83,F,Internal Medicine,2022-10-30,2022-10-30,Pneumonia,0
+523,Douglas Rivera,65,M,Cardiology,2023-12-03,2023-12-21,Heart failure,1
+524,Logan Hunt,43,F,Internal Medicine,2023-10-27,2023-11-04,Hypertension,1
+525,Daniel Taylor,25,F,Internal Medicine,2023-07-10,2023-07-17,Diabetes,1
+526,Sarah Evans,57,M,Surgery,2024-05-13,2024-05-22,Rectal cancer,1
+527,Wanda Foster,80,M,Pulmonology,2023-11-25,2023-12-14,Wheezing,1
+528,Patty Mcdaniel,46,F,Pulmonology,2023-03-05,2023-03-22,Shortness of breath,1
+529,Stephanie Day,27,M,Pulmonology,2023-07-30,2023-07-30,Cough,0
+530,Lori Guzman,76,M,Surgery,2025-02-12,2025-02-27,Cholelithiasis,1
+531,Andrew Rodgers,80,M,Surgery,2022-12-30,2022-12-30,Appendicitis,0
+532,Kathy Ford,62,F,Internal Medicine,2024-12-04,2024-12-17,Hypertension,1
+533,Michelle Brown,33,F,Cardiology,2022-08-15,2022-08-15,Angina,0
+534,Nicholas Wright,48,F,Internal Medicine,2024-01-09,2024-01-09,Pneumonia,0
+535,James Bradley,87,M,Surgery,2022-03-02,2022-03-08,Appendicitis,1
+536,Amanda Flores,42,M,Cardiology,2024-10-07,2024-10-26,Myocardial infarction,1
+537,Faith Simon,34,F,Surgery,2022-03-12,2022-03-28,Appendicitis,1
+538,Ashley Macias,67,F,Surgery,2024-07-08,2024-07-25,Cholelithiasis,1
+539,Patrick Thomas,79,M,Surgery,2023-11-28,2023-12-17,Appendicitis,1
+540,Brad Abbott,44,M,Cardiology,2022-12-18,2022-12-27,Angina,1
+541,David Cruz,55,M,Surgery,2023-03-28,2023-04-14,Appendicitis,1
+542,Robert Ryan,74,M,Surgery,2023-12-19,2023-12-19,Rectal cancer,0
+543,Jonathan Weaver,39,F,Internal Medicine,2022-06-22,2022-07-09,Pneumonia,1
+544,Stephanie Herrera,28,M,Cardiology,2023-10-06,2023-10-25,Heart failure,1
+545,Nathaniel Johnson,88,M,Cardiology,2024-12-29,2025-01-04,Angina,1
+546,Lisa Todd,46,M,Cardiology,2024-01-04,2024-01-11,Heart failure,1
+547,Spencer Adkins,42,F,Internal Medicine,2024-01-09,2024-01-09,Pneumonia,0
+548,Gabriella Martinez,20,M,Pulmonology,2024-12-15,2025-01-01,Cough,1
+549,Deborah Mccall,21,F,Internal Medicine,2023-04-13,2023-04-22,Hypertension,1
+550,Travis Thompson,29,F,Pulmonology,2022-07-22,2022-08-09,Wheezing,1
+551,John Harvey,74,F,Pulmonology,2023-06-14,2023-07-01,Wheezing,1
+552,Stephen Nguyen,32,M,Pulmonology,2022-10-06,2022-10-22,Wheezing,1
+553,Andrew Gentry,35,F,Surgery,2023-06-08,2023-06-15,Rectal cancer,1
+554,Elizabeth Chavez,85,M,Cardiology,2023-12-23,2023-12-23,Heart failure,0
+555,Samuel Velez,61,F,Surgery,2024-05-06,2024-05-14,Rectal cancer,1
+556,Dawn Park,49,M,Pulmonology,2022-08-08,2022-08-28,Cough,1
+557,Thomas Oliver,59,F,Surgery,2025-02-25,2025-03-03,Cholelithiasis,1
+558,Paul Adams,73,F,Cardiology,2023-10-05,2023-10-14,Heart failure,1
+559,Kristen Taylor,45,F,Pulmonology,2023-05-26,2023-06-09,Wheezing,1
+560,Molly Fry,40,F,Internal Medicine,2024-02-24,2024-03-06,Pneumonia,1
+561,Jacob Johnson,80,M,Surgery,2024-12-18,2024-12-24,Rectal cancer,1
+562,Logan Hamilton,41,F,Internal Medicine,2022-05-31,2022-06-07,Diabetes,1
+563,Thomas Santana,60,M,Internal Medicine,2024-11-09,2024-11-18,Diabetes,1
+564,Terry White,80,F,Surgery,2022-10-28,2022-10-28,Cholelithiasis,0
+565,Eric White,20,F,Cardiology,2023-01-24,2023-02-10,Myocardial infarction,1
+566,Allison Jones,82,F,Cardiology,2024-10-18,2024-10-18,Heart failure,0
+567,Eddie Harris,70,M,Internal Medicine,2023-12-13,2023-12-26,Diabetes,1
+568,Ryan Oliver,82,F,Pulmonology,2023-02-20,2023-03-02,Shortness of breath,1
+569,Lucas Jones,37,M,Internal Medicine,2024-09-25,2024-10-06,Hypertension,1
+570,Brent Evans,55,M,Internal Medicine,2024-03-26,2024-04-14,Diabetes,1
+571,Brad Thomas,36,M,Internal Medicine,2025-02-20,2025-03-03,Diabetes,1
+572,Kimberly Gomez,64,F,Cardiology,2023-11-22,2023-11-22,Heart failure,0
+573,James Villanueva,43,F,Internal Medicine,2023-02-22,2023-02-22,Diabetes,0
+574,Adrian Carrillo,80,M,Cardiology,2022-03-11,2022-03-18,Heart failure,1
+575,Michael James,86,M,Surgery,2022-10-18,2022-11-01,Cholelithiasis,1
+576,Anthony Calhoun,24,F,Pulmonology,2024-01-29,2024-02-12,Cough,1
+577,Danielle Mendoza,67,F,Cardiology,2024-02-21,2024-02-28,Heart failure,1
+578,Martin Saunders,49,M,Cardiology,2022-03-26,2022-03-26,Heart failure,0
+579,Ruth Pitts,27,F,Pulmonology,2024-09-23,2024-10-08,Shortness of breath,1
+580,Steven Hubbard,88,F,Cardiology,2023-07-26,2023-07-26,Angina,0
+581,John Fleming,50,M,Cardiology,2025-03-03,2025-03-23,Angina,1
+582,Melissa Williams,46,M,Cardiology,2024-09-05,2024-09-14,Heart failure,1
+583,William Sandoval,60,M,Cardiology,2024-06-26,2024-07-06,Myocardial infarction,1
+584,David Smith,82,F,Surgery,2024-04-24,2024-04-24,Rectal cancer,0
+585,Joseph Atkins,25,M,Pulmonology,2022-08-16,2022-08-26,Cough,1
+586,Lauren Burns,75,M,Internal Medicine,2024-10-16,2024-10-16,Diabetes,0
+587,Paul Gardner,52,F,Pulmonology,2023-09-27,2023-10-09,Wheezing,1
+588,Summer Baker,41,F,Cardiology,2023-07-08,2023-07-08,Heart failure,0
+589,Mark Rodriguez,60,F,Internal Medicine,2022-03-20,2022-03-26,Hypertension,1
+590,Gail Phelps,45,M,Pulmonology,2022-12-31,2023-01-17,Cough,1
+591,Sydney Cowan,52,M,Internal Medicine,2023-02-20,2023-02-20,Pneumonia,0
+592,Ryan Barber,80,F,Cardiology,2023-06-25,2023-07-04,Angina,1
+593,Christina Morgan,73,F,Internal Medicine,2024-11-19,2024-11-28,Hypertension,1
+594,Hannah Scott,25,M,Cardiology,2022-05-22,2022-05-27,Myocardial infarction,1
+595,Michael Beck,47,M,Internal Medicine,2023-12-17,2023-12-17,Pneumonia,0
+596,Allison Martinez,89,M,Surgery,2025-02-18,2025-03-09,Appendicitis,1
+597,Amy Tyler,35,F,Cardiology,2023-06-24,2023-07-02,Myocardial infarction,1
+598,Jose Martinez,26,F,Internal Medicine,2024-02-04,2024-02-10,Diabetes,1
+599,John Robbins,37,M,Internal Medicine,2023-09-11,2023-09-30,Pneumonia,1
+600,Anthony Hernandez,30,M,Internal Medicine,2024-11-21,2024-12-05,Diabetes,1
+601,Courtney Hull,75,F,Surgery,2022-09-24,2022-10-11,Cholelithiasis,1
+602,Denise Kennedy,78,M,Internal Medicine,2022-04-28,2022-05-09,Diabetes,1
+603,Tiffany Hill,36,F,Cardiology,2024-02-17,2024-02-17,Angina,0
+604,Jason Jefferson,49,M,Surgery,2023-10-05,2023-10-23,Rectal cancer,1
+605,Barbara Tyler,76,F,Pulmonology,2024-09-01,2024-09-01,Shortness of breath,0
+606,Michael Jacobson,48,F,Pulmonology,2022-03-26,2022-04-08,Wheezing,1
+607,Alexander Smith,40,F,Pulmonology,2023-12-07,2023-12-22,Cough,1
+608,Katherine Smith,25,M,Cardiology,2022-11-03,2022-11-03,Angina,0
+609,Anthony Romero,77,M,Cardiology,2024-09-02,2024-09-02,Heart failure,0
+610,David Nguyen,82,M,Pulmonology,2024-11-14,2024-12-04,Shortness of breath,1
+611,Rhonda Curtis,88,M,Internal Medicine,2023-12-16,2023-12-29,Pneumonia,1
+612,Angela Kelly,28,F,Pulmonology,2023-06-02,2023-06-02,Shortness of breath,0
+613,Elizabeth Gregory,68,F,Internal Medicine,2023-12-12,2023-12-22,Hypertension,1
+614,Andrew Murray,35,F,Pulmonology,2024-02-12,2024-03-01,Wheezing,1
+615,William Anderson,70,M,Pulmonology,2023-12-29,2024-01-09,Shortness of breath,1
+616,Angela Cardenas,74,M,Pulmonology,2024-01-10,2024-01-10,Wheezing,0
+617,Kerry Sims,37,M,Surgery,2022-07-03,2022-07-08,Cholelithiasis,1
+618,Kayla Banks,31,M,Pulmonology,2024-12-29,2025-01-15,Cough,1
+619,Karen Booker,60,M,Surgery,2023-06-09,2023-06-21,Appendicitis,1
+620,Daniel Sanders,88,F,Cardiology,2022-07-18,2022-07-27,Myocardial infarction,1
+621,Jacob Henry,58,F,Pulmonology,2023-01-06,2023-01-18,Wheezing,1
+622,Valerie Moran,70,M,Pulmonology,2023-04-14,2023-04-14,Shortness of breath,0
+623,Daniel Choi,65,M,Internal Medicine,2022-06-20,2022-06-27,Hypertension,1
+624,Elizabeth Myers,76,F,Internal Medicine,2023-04-08,2023-04-19,Diabetes,1
+625,Julie Wood,88,F,Pulmonology,2022-11-19,2022-12-06,Cough,1
+626,Jasmine Jackson,50,F,Pulmonology,2023-05-21,2023-05-31,Wheezing,1
+627,Julia Sweeney,38,F,Pulmonology,2022-03-30,2022-04-13,Shortness of breath,1
+628,Tiffany Summers,35,F,Cardiology,2023-05-21,2023-05-21,Myocardial infarction,0
+629,Wendy Williams,70,F,Surgery,2024-09-22,2024-10-10,Rectal cancer,1
+630,Mary Peterson,72,F,Surgery,2024-03-17,2024-03-24,Appendicitis,1
+631,Christine Velazquez,53,F,Pulmonology,2022-12-01,2022-12-01,Shortness of breath,0
+632,Robert Walters,20,M,Internal Medicine,2022-08-29,2022-09-18,Pneumonia,1
+633,Nathan Young,82,M,Surgery,2023-10-24,2023-11-13,Cholelithiasis,1
+634,Benjamin Williams DDS,90,M,Internal Medicine,2024-06-18,2024-07-04,Diabetes,1
+635,Jerry Willis,57,F,Cardiology,2023-11-12,2023-11-12,Heart failure,0
+636,Brittany Blackburn,33,M,Cardiology,2024-05-21,2024-05-21,Angina,0
+637,Brian Hartman,35,F,Surgery,2022-10-05,2022-10-12,Cholelithiasis,1
+638,Jeffrey Moore,81,F,Cardiology,2023-05-29,2023-05-29,Angina,0
+639,Dr. James Singh,28,F,Internal Medicine,2023-01-06,2023-01-12,Diabetes,1
+640,Henry Torres,71,F,Pulmonology,2025-02-16,2025-02-16,Shortness of breath,0
+641,Jennifer Nelson,54,F,Surgery,2022-10-11,2022-10-11,Appendicitis,0
+642,Lisa Haley,51,F,Internal Medicine,2024-02-14,2024-02-22,Diabetes,1
+643,Dr. Peter Williams,47,F,Internal Medicine,2022-04-25,2022-05-14,Pneumonia,1
+644,Hannah Watson,40,M,Internal Medicine,2024-03-27,2024-04-05,Diabetes,1
+645,Dustin Smith,67,M,Pulmonology,2022-11-28,2022-12-09,Shortness of breath,1
+646,Raymond Newman,42,M,Surgery,2022-07-04,2022-07-14,Rectal cancer,1
+647,Brian Sellers,78,F,Cardiology,2024-03-08,2024-03-22,Myocardial infarction,1
+648,Krystal Lopez,63,M,Cardiology,2023-07-07,2023-07-07,Heart failure,0
+649,Dr. Vanessa Rodriguez DVM,35,F,Surgery,2022-05-02,2022-05-15,Cholelithiasis,1
+650,Kenneth Thompson,35,M,Surgery,2023-04-25,2023-05-12,Appendicitis,1
+651,Jacob Miller,48,F,Internal Medicine,2023-07-14,2023-07-19,Pneumonia,1
+652,Logan Hess,49,M,Pulmonology,2023-06-09,2023-06-09,Shortness of breath,0
+653,Brenda Andrews,70,F,Surgery,2022-10-15,2022-10-15,Appendicitis,0
+654,Jessica Christian,70,F,Surgery,2024-09-21,2024-10-04,Rectal cancer,1
+655,April Allen,86,F,Pulmonology,2024-10-06,2024-10-19,Cough,1
+656,Ronald Lamb,50,F,Surgery,2023-08-13,2023-08-13,Cholelithiasis,0
+657,Tyler Reynolds,54,M,Surgery,2024-12-02,2024-12-21,Cholelithiasis,1
+658,Amy Mills,79,M,Surgery,2024-11-16,2024-11-23,Appendicitis,1
+659,Stephanie Mendez,87,M,Surgery,2023-10-14,2023-10-14,Cholelithiasis,0
+660,Bernard Barker,78,M,Cardiology,2024-03-03,2024-03-12,Angina,1
+661,Lynn Davis,41,F,Surgery,2022-09-11,2022-09-20,Appendicitis,1
+662,Lynn Townsend,21,M,Surgery,2022-03-29,2022-04-03,Appendicitis,1
+663,Joshua Harris,29,M,Cardiology,2023-01-08,2023-01-23,Myocardial infarction,1
+664,Nathan Best,84,M,Surgery,2024-12-20,2024-12-20,Rectal cancer,0
+665,Craig Lyons,66,M,Pulmonology,2022-06-19,2022-06-24,Wheezing,1
+666,Margaret Reeves,31,F,Surgery,2025-03-01,2025-03-09,Rectal cancer,1
+667,Mary Fleming,54,F,Internal Medicine,2023-02-21,2023-03-10,Hypertension,1
+668,Stuart Baker,82,F,Surgery,2024-11-27,2024-12-14,Cholelithiasis,1
+669,George Alvarez,77,M,Surgery,2022-07-01,2022-07-08,Appendicitis,1
+670,Laura Chang,44,F,Surgery,2023-12-21,2023-12-21,Rectal cancer,0
+671,Kendra Mcguire,60,F,Surgery,2023-01-21,2023-02-01,Rectal cancer,1
+672,Andrea Henry,40,M,Cardiology,2022-04-28,2022-05-11,Myocardial infarction,1
+673,Paul Brooks,52,F,Internal Medicine,2022-12-02,2022-12-19,Hypertension,1
+674,Kimberly Zimmerman,24,F,Surgery,2024-04-03,2024-04-19,Appendicitis,1
+675,Whitney Garcia,80,F,Cardiology,2022-08-05,2022-08-14,Heart failure,1
+676,Ronald Fernandez,64,M,Surgery,2024-08-28,2024-09-08,Cholelithiasis,1
+677,Derek Francis,89,M,Pulmonology,2024-02-09,2024-02-17,Cough,1
+678,Jacob Martin,76,F,Pulmonology,2025-01-27,2025-02-06,Shortness of breath,1
+679,Matthew Smith,42,M,Surgery,2023-08-13,2023-08-18,Appendicitis,1
+680,Alex Sparks,86,F,Pulmonology,2022-03-20,2022-03-20,Cough,0
+681,Jenny Cole,28,F,Pulmonology,2024-12-26,2025-01-09,Shortness of breath,1
+682,John Wolf,27,F,Surgery,2022-10-15,2022-10-15,Cholelithiasis,0
+683,Michael West,28,M,Surgery,2024-09-06,2024-09-06,Rectal cancer,0
+684,Jacob Richards,82,M,Internal Medicine,2022-09-24,2022-10-06,Diabetes,1
+685,Christian Crawford,29,F,Pulmonology,2024-02-17,2024-02-17,Shortness of breath,0
+686,Jeffrey Smith,51,F,Cardiology,2024-09-19,2024-10-05,Angina,1
+687,Dr. Adam Chavez,69,F,Pulmonology,2024-08-16,2024-08-16,Wheezing,0
+688,Nicole Hansen,49,M,Surgery,2022-05-25,2022-06-08,Appendicitis,1
+689,Holly Melton,21,M,Pulmonology,2025-01-19,2025-02-02,Wheezing,1
+690,Chad Ponce,33,M,Pulmonology,2023-11-15,2023-11-29,Cough,1
+691,Tanner Carr,25,F,Surgery,2022-12-18,2022-12-26,Appendicitis,1
+692,Heather Davis,78,F,Pulmonology,2023-10-19,2023-10-19,Shortness of breath,0
+693,Darren Washington,31,F,Pulmonology,2023-05-31,2023-05-31,Wheezing,0
+694,Michelle Rodriguez,31,F,Internal Medicine,2022-09-29,2022-09-29,Diabetes,0
+695,Wayne Bates,54,M,Surgery,2023-06-09,2023-06-21,Rectal cancer,1
+696,Nathan Pacheco,71,M,Internal Medicine,2024-01-31,2024-02-08,Hypertension,1
+697,Darren Clark,50,F,Internal Medicine,2022-04-05,2022-04-24,Pneumonia,1
+698,Teresa Gray,43,M,Surgery,2022-08-02,2022-08-02,Cholelithiasis,0
+699,Cynthia Odom,70,M,Cardiology,2023-03-28,2023-04-05,Angina,1
+700,Pamela White,42,M,Surgery,2024-08-02,2024-08-17,Cholelithiasis,1
+701,Steven Knapp,71,F,Cardiology,2022-09-26,2022-10-05,Heart failure,1
+702,David Nunez,64,M,Pulmonology,2024-04-10,2024-04-10,Shortness of breath,0
+703,Stephen Murphy Jr.,66,M,Surgery,2023-03-15,2023-03-15,Cholelithiasis,0
+704,Jessica Mccormick,77,M,Pulmonology,2024-08-13,2024-08-13,Shortness of breath,0
+705,Michael West,42,F,Cardiology,2022-09-02,2022-09-16,Heart failure,1
+706,Dominic Henry,85,F,Pulmonology,2023-11-29,2023-12-08,Wheezing,1
+707,Crystal Drake,38,F,Internal Medicine,2023-12-03,2023-12-03,Pneumonia,0
+708,Gina Richards,50,F,Surgery,2024-01-24,2024-01-24,Cholelithiasis,0
+709,Jim Lopez,29,F,Cardiology,2024-07-25,2024-08-03,Heart failure,1
+710,Curtis Winters,55,M,Pulmonology,2022-12-29,2023-01-09,Cough,1
+711,Jerry Thompson,35,F,Cardiology,2024-01-11,2024-01-11,Myocardial infarction,0
+712,Michael Bennett,49,M,Cardiology,2023-06-07,2023-06-07,Angina,0
+713,Meagan Harris,66,M,Internal Medicine,2023-09-24,2023-10-14,Hypertension,1
+714,Mary Ray,87,F,Surgery,2023-09-10,2023-09-27,Cholelithiasis,1
+715,Miranda Caldwell,71,M,Cardiology,2023-12-24,2024-01-07,Myocardial infarction,1
+716,Jamie Ramirez,66,F,Surgery,2022-06-08,2022-06-16,Cholelithiasis,1
+717,Jorge Nielsen,34,M,Internal Medicine,2025-02-24,2025-03-05,Hypertension,1
+718,Erica Brown,30,M,Cardiology,2024-06-25,2024-06-25,Angina,0
+719,Karl Edwards,67,M,Internal Medicine,2023-07-09,2023-07-09,Diabetes,0
+720,Robert Travis,39,F,Internal Medicine,2024-06-27,2024-07-14,Pneumonia,1
+721,Alexis Thompson,87,F,Cardiology,2023-11-01,2023-11-12,Myocardial infarction,1
+722,Joshua Garza,37,F,Internal Medicine,2023-12-12,2023-12-12,Pneumonia,0
+723,Amy Gray,67,F,Surgery,2023-04-17,2023-04-25,Appendicitis,1
+724,Veronica Crane,44,F,Cardiology,2022-11-13,2022-11-13,Angina,0
+725,Dawn White,57,M,Cardiology,2023-08-20,2023-08-20,Angina,0
+726,Ryan Rodriguez,45,F,Cardiology,2025-01-09,2025-01-18,Myocardial infarction,1
+727,Mary Nelson,51,M,Surgery,2025-01-05,2025-01-18,Cholelithiasis,1
+728,Mrs. Sherri Yates,45,M,Cardiology,2023-05-25,2023-06-06,Heart failure,1
+729,Jessica Collins DDS,70,M,Internal Medicine,2022-08-18,2022-08-18,Diabetes,0
+730,Kristina Ramos,64,M,Internal Medicine,2022-05-03,2022-05-13,Hypertension,1
+731,Tyler Donovan,80,M,Internal Medicine,2023-07-31,2023-08-15,Hypertension,1
+732,Virginia Newton,90,M,Cardiology,2023-12-16,2023-12-16,Myocardial infarction,0
+733,Carol Salinas,63,M,Pulmonology,2022-04-10,2022-04-10,Wheezing,0
+734,Michael Jenkins,47,F,Cardiology,2022-08-23,2022-08-29,Angina,1
+735,Amy Tucker,80,F,Internal Medicine,2023-02-01,2023-02-13,Diabetes,1
+736,Jacqueline Nguyen,32,F,Surgery,2022-08-14,2022-08-21,Rectal cancer,1
+737,Joseph Williamson,56,F,Cardiology,2023-07-05,2023-07-20,Myocardial infarction,1
+738,Dylan Thompson,44,F,Pulmonology,2023-07-04,2023-07-04,Wheezing,0
+739,Gary Hines,29,M,Pulmonology,2024-03-25,2024-03-25,Cough,0
+740,Donna Haynes,78,M,Cardiology,2024-01-08,2024-01-16,Heart failure,1
+741,Eduardo Zimmerman,53,F,Surgery,2025-03-02,2025-03-19,Rectal cancer,1
+742,Erica Martinez,55,M,Internal Medicine,2023-10-07,2023-10-22,Pneumonia,1
+743,Rebecca Johnston,90,M,Cardiology,2022-11-30,2022-11-30,Heart failure,0
+744,Jennifer Carr MD,28,F,Surgery,2023-07-05,2023-07-14,Rectal cancer,1
+745,Krista Rodriguez,32,F,Pulmonology,2024-11-18,2024-12-08,Wheezing,1
+746,Katrina Young,63,M,Cardiology,2023-10-15,2023-10-15,Angina,0
+747,Joseph Alexander,80,M,Internal Medicine,2024-05-23,2024-06-01,Diabetes,1
+748,Rachel Mckinney,24,M,Internal Medicine,2023-10-26,2023-11-13,Hypertension,1
+749,Christopher Foley,53,F,Cardiology,2022-05-23,2022-06-08,Heart failure,1
+750,Sarah Johnston,49,M,Cardiology,2022-07-20,2022-07-20,Angina,0
+751,Kimberly West,61,F,Pulmonology,2022-07-30,2022-08-13,Cough,1
+752,Rebecca Moore,27,F,Pulmonology,2023-05-10,2023-05-18,Shortness of breath,1
+753,Hannah Foster,85,M,Pulmonology,2022-09-03,2022-09-17,Shortness of breath,1
+754,Riley Taylor,49,F,Surgery,2024-10-06,2024-10-20,Appendicitis,1
+755,Lindsey Wilson,71,F,Surgery,2024-06-14,2024-06-14,Cholelithiasis,0
+756,Mark Guzman,56,M,Internal Medicine,2022-04-12,2022-04-12,Pneumonia,0
+757,Rhonda Hart,41,M,Cardiology,2025-01-11,2025-01-30,Heart failure,1
+758,Brandon Young,33,F,Pulmonology,2023-07-26,2023-08-05,Shortness of breath,1
+759,Angie Stewart,52,M,Pulmonology,2024-04-27,2024-05-08,Wheezing,1
+760,Tammy Landry,78,M,Internal Medicine,2023-02-23,2023-02-23,Pneumonia,0
+761,Kelly Floyd,65,F,Cardiology,2022-03-04,2022-03-04,Angina,0
+762,Christopher Hunt,40,F,Pulmonology,2023-11-20,2023-12-07,Cough,1
+763,David Morgan,62,F,Surgery,2022-06-16,2022-06-29,Cholelithiasis,1
+764,Mackenzie Tran,26,M,Cardiology,2025-02-17,2025-02-22,Myocardial infarction,1
+765,Richard Kerr,69,F,Surgery,2022-06-07,2022-06-07,Cholelithiasis,0
+766,Dr. Gary Sanchez Jr.,81,M,Cardiology,2023-01-24,2023-01-24,Heart failure,0
+767,Michelle Hernandez,76,F,Surgery,2024-04-30,2024-04-30,Appendicitis,0
+768,Larry Mitchell,23,M,Cardiology,2023-03-16,2023-03-16,Myocardial infarction,0
+769,Louis Lewis,33,M,Internal Medicine,2022-05-14,2022-05-23,Hypertension,1
+770,Alexandra Ellis,54,M,Pulmonology,2022-12-20,2023-01-05,Cough,1
+771,Michael Salinas,82,M,Pulmonology,2024-09-22,2024-10-04,Wheezing,1
+772,Lee Jones,59,M,Pulmonology,2024-12-23,2025-01-09,Cough,1
+773,Mary Hensley,31,M,Surgery,2025-03-03,2025-03-03,Rectal cancer,0
+774,Joe Stout,71,F,Cardiology,2022-11-03,2022-11-19,Heart failure,1
+775,Luke Nunez,30,F,Internal Medicine,2024-08-05,2024-08-25,Diabetes,1
+776,Brandon Whitaker,48,M,Internal Medicine,2023-03-20,2023-03-20,Pneumonia,0
+777,Rebecca Brown,60,M,Cardiology,2022-06-06,2022-06-20,Heart failure,1
+778,Renee Hoffman,82,F,Cardiology,2024-10-29,2024-10-29,Angina,0
+779,Angela Hess,56,M,Surgery,2022-10-06,2022-10-06,Rectal cancer,0
+780,Michael Hernandez,72,F,Surgery,2022-08-19,2022-08-19,Cholelithiasis,0
+781,Chloe Garcia DVM,22,M,Surgery,2022-03-22,2022-04-05,Appendicitis,1
+782,Micheal Brown DVM,30,F,Surgery,2022-12-05,2022-12-18,Cholelithiasis,1
+783,Jamie Mays,71,F,Surgery,2023-09-09,2023-09-21,Rectal cancer,1
+784,Joanne Whitaker,54,F,Internal Medicine,2023-04-23,2023-04-23,Diabetes,0
+785,Jacob Combs,88,M,Pulmonology,2023-01-09,2023-01-18,Shortness of breath,1
+786,Clayton Hernandez,70,M,Cardiology,2023-01-20,2023-02-06,Myocardial infarction,1
+787,Brandon Lester,64,F,Pulmonology,2024-07-12,2024-07-28,Wheezing,1
+788,Phillip Lester,58,M,Internal Medicine,2023-11-21,2023-12-11,Pneumonia,1
+789,Susan Vega,39,F,Pulmonology,2022-03-28,2022-04-15,Wheezing,1
+790,Marcus Warren,83,F,Pulmonology,2024-07-28,2024-07-28,Cough,0
+791,James Fowler,78,F,Surgery,2022-11-13,2022-11-20,Cholelithiasis,1
+792,Melinda Wolf,48,F,Pulmonology,2022-08-19,2022-09-04,Shortness of breath,1
+793,Kenneth Hall,38,F,Surgery,2023-12-02,2023-12-14,Cholelithiasis,1
+794,Regina Hill,70,F,Pulmonology,2024-01-17,2024-01-17,Shortness of breath,0
+795,Jimmy Garza,38,F,Internal Medicine,2023-04-03,2023-04-03,Hypertension,0
+796,Michael Mcgee,56,M,Pulmonology,2024-09-17,2024-09-24,Cough,1
+797,Adrian Walker,64,F,Internal Medicine,2022-10-08,2022-10-25,Hypertension,1
+798,James Mclaughlin,23,M,Pulmonology,2023-10-16,2023-10-16,Cough,0
+799,Alexander Dunn,31,F,Internal Medicine,2025-02-21,2025-02-27,Pneumonia,1
+800,Paul Lee,43,M,Pulmonology,2022-05-27,2022-06-13,Shortness of breath,1
+801,Paula Benjamin,26,M,Cardiology,2023-09-16,2023-09-29,Heart failure,1
+802,Jeffrey Miles,74,F,Pulmonology,2024-01-02,2024-01-12,Shortness of breath,1
+803,Rebekah Nguyen,52,F,Pulmonology,2024-01-01,2024-01-01,Cough,0
+804,Bianca Armstrong,41,F,Cardiology,2022-06-27,2022-06-27,Myocardial infarction,0
+805,Daniel Watts,50,F,Cardiology,2022-11-24,2022-12-08,Heart failure,1
+806,John Harrington,89,F,Surgery,2023-03-26,2023-04-06,Appendicitis,1
+807,Jenny Jackson,81,F,Surgery,2023-07-18,2023-07-23,Rectal cancer,1
+808,James Young,75,F,Pulmonology,2023-03-03,2023-03-16,Shortness of breath,1
+809,Robert Johnson,81,F,Pulmonology,2024-08-09,2024-08-09,Shortness of breath,0
+810,Roy Hill,48,M,Pulmonology,2024-09-04,2024-09-12,Cough,1
+811,Guy Coleman,59,M,Surgery,2024-11-15,2024-12-05,Cholelithiasis,1
+812,Madison Warren,87,F,Pulmonology,2024-05-06,2024-05-17,Shortness of breath,1
+813,Anna Jackson,39,M,Internal Medicine,2024-04-06,2024-04-06,Hypertension,0
+814,Kimberly Tate,21,M,Internal Medicine,2023-10-04,2023-10-24,Hypertension,1
+815,Maria Rodriguez,47,F,Internal Medicine,2023-05-15,2023-05-15,Hypertension,0
+816,John Alvarez,46,F,Cardiology,2023-10-14,2023-10-26,Myocardial infarction,1
+817,Stacy French,43,F,Cardiology,2024-11-05,2024-11-05,Angina,0
+818,Kimberly Cervantes,71,F,Pulmonology,2024-06-28,2024-07-10,Cough,1
+819,Alexander Gomez,23,F,Surgery,2024-08-30,2024-09-07,Cholelithiasis,1
+820,Linda Newman,84,M,Surgery,2022-12-31,2023-01-15,Cholelithiasis,1
+821,Michael Valdez,63,F,Internal Medicine,2022-05-15,2022-05-15,Hypertension,0
+822,Valerie Baker,55,F,Surgery,2023-09-19,2023-09-19,Rectal cancer,0
+823,Ebony Klein,88,M,Internal Medicine,2023-03-21,2023-04-02,Hypertension,1
+824,Deborah Perez,53,F,Surgery,2022-09-19,2022-09-19,Cholelithiasis,0
+825,William Alvarado,53,F,Cardiology,2022-11-16,2022-11-23,Angina,1
+826,Charles Aguilar,62,M,Pulmonology,2024-05-28,2024-05-28,Cough,0
+827,Krista Stewart PhD,79,M,Cardiology,2025-02-06,2025-02-18,Myocardial infarction,1
+828,Jessica Garcia,86,F,Surgery,2024-03-15,2024-03-15,Rectal cancer,0
+829,Philip Hayes,30,F,Surgery,2023-07-25,2023-07-31,Cholelithiasis,1
+830,Lynn Gonzales,70,F,Surgery,2022-10-31,2022-11-18,Cholelithiasis,1
+831,Philip Mckenzie,27,M,Internal Medicine,2023-03-11,2023-03-30,Hypertension,1
+832,Steven Johnson,72,M,Pulmonology,2023-12-18,2023-12-24,Cough,1
+833,Mr. Jason Juarez,41,F,Surgery,2023-09-27,2023-10-11,Rectal cancer,1
+834,Randy Rodriguez,20,F,Pulmonology,2024-03-16,2024-03-24,Shortness of breath,1
+835,Shawn Chavez,50,F,Pulmonology,2022-03-10,2022-03-16,Cough,1
+836,William Hamilton,84,F,Internal Medicine,2024-02-27,2024-03-17,Pneumonia,1
+837,Christopher Joyce,61,F,Internal Medicine,2023-11-11,2023-11-19,Diabetes,1
+838,William Scott,39,M,Internal Medicine,2022-11-13,2022-12-03,Hypertension,1
+839,Jennifer Holland,62,F,Internal Medicine,2023-10-10,2023-10-10,Pneumonia,0
+840,Dr. Kimberly Booth,52,M,Internal Medicine,2023-05-24,2023-05-30,Hypertension,1
+841,Monica Diaz,76,M,Surgery,2024-05-03,2024-05-18,Cholelithiasis,1
+842,Brian Moore,77,F,Surgery,2022-08-06,2022-08-20,Rectal cancer,1
+843,Oscar Jackson,25,M,Pulmonology,2024-07-25,2024-07-25,Wheezing,0
+844,Jacob Lee,46,F,Internal Medicine,2024-01-02,2024-01-02,Hypertension,0
+845,Gregory Yates,49,M,Pulmonology,2023-04-11,2023-04-30,Wheezing,1
+846,Faith Cook,56,F,Surgery,2023-09-19,2023-09-19,Cholelithiasis,0
+847,Jesse Murray,70,M,Pulmonology,2024-02-08,2024-02-08,Wheezing,0
+848,Stephanie Parrish,68,M,Pulmonology,2022-06-29,2022-07-05,Shortness of breath,1
+849,Erik Brown,43,F,Surgery,2023-03-08,2023-03-19,Appendicitis,1
+850,Richard Riley,20,M,Internal Medicine,2024-08-07,2024-08-07,Hypertension,0
+851,Theresa Alexander,44,M,Internal Medicine,2023-06-20,2023-06-30,Hypertension,1
+852,David Haley,54,M,Pulmonology,2023-04-25,2023-05-06,Wheezing,1
+853,Crystal Lawson MD,52,F,Internal Medicine,2024-04-08,2024-04-24,Diabetes,1
+854,Jeffrey Ware,90,F,Pulmonology,2024-07-15,2024-07-15,Cough,0
+855,Amy Bell,37,F,Internal Medicine,2024-07-22,2024-08-02,Hypertension,1
+856,Stephanie Reed,41,F,Pulmonology,2024-03-20,2024-03-20,Shortness of breath,0
+857,Nicholas Fields,89,M,Surgery,2023-08-06,2023-08-06,Appendicitis,0
+858,Diane Harris,79,F,Internal Medicine,2022-12-31,2023-01-15,Hypertension,1
+859,Jason Coleman,76,M,Surgery,2023-12-15,2023-12-24,Cholelithiasis,1
+860,Scott Davis,71,M,Pulmonology,2023-07-29,2023-07-29,Cough,0
+861,Wyatt Ewing,29,M,Surgery,2022-11-10,2022-11-10,Cholelithiasis,0
+862,Rickey Gomez,23,F,Pulmonology,2025-02-20,2025-02-20,Cough,0
+863,Raymond Macdonald,85,F,Surgery,2022-12-14,2022-12-24,Cholelithiasis,1
+864,Joseph Thomas,37,F,Internal Medicine,2022-05-26,2022-06-06,Pneumonia,1
+865,Angela Abbott,45,F,Internal Medicine,2024-04-15,2024-04-15,Diabetes,0
+866,Miss Lori Ward,64,F,Pulmonology,2024-12-06,2024-12-18,Wheezing,1
+867,Erica Wyatt,24,F,Pulmonology,2025-01-19,2025-01-19,Cough,0
+868,Seth Diaz,71,F,Cardiology,2023-10-22,2023-10-30,Myocardial infarction,1
+869,Daniel Martin,84,M,Surgery,2023-07-19,2023-07-25,Rectal cancer,1
+870,Debra Shaffer,90,M,Surgery,2022-06-07,2022-06-07,Rectal cancer,0
+871,Rhonda Williams,90,M,Internal Medicine,2024-07-17,2024-07-17,Pneumonia,0
+872,Angela Thomas,68,F,Internal Medicine,2025-01-13,2025-01-13,Diabetes,0
+873,Colleen Trevino,50,M,Surgery,2022-12-28,2023-01-17,Appendicitis,1
+874,Paul Brown,27,M,Internal Medicine,2023-08-31,2023-09-07,Pneumonia,1
+875,Mark Tate,84,F,Pulmonology,2024-06-13,2024-06-23,Cough,1
+876,Mr. Luis Crane,26,F,Cardiology,2023-10-07,2023-10-22,Myocardial infarction,1
+877,Cheryl Daugherty,86,F,Internal Medicine,2022-05-10,2022-05-10,Hypertension,0
+878,Jeremy Woodard,53,M,Surgery,2022-11-14,2022-11-23,Rectal cancer,1
+879,Kenneth Williams,82,M,Surgery,2023-10-07,2023-10-26,Appendicitis,1
+880,Heather Espinoza,28,M,Internal Medicine,2022-05-03,2022-05-08,Diabetes,1
+881,Marvin Marshall,82,M,Cardiology,2022-08-02,2022-08-07,Angina,1
+882,Ryan Evans,61,M,Surgery,2022-05-20,2022-06-08,Appendicitis,1
+883,Kelli Meyer,85,F,Cardiology,2023-06-19,2023-06-24,Heart failure,1
+884,Brenda Martinez,76,M,Cardiology,2024-10-08,2024-10-22,Angina,1
+885,Willie Rose,59,M,Cardiology,2025-01-12,2025-01-12,Angina,0
+886,David Stewart,42,M,Surgery,2023-04-20,2023-04-25,Cholelithiasis,1
+887,Michael Dunn,33,F,Internal Medicine,2023-08-05,2023-08-14,Diabetes,1
+888,Samantha Perez,54,M,Pulmonology,2022-08-30,2022-09-06,Cough,1
+889,Joshua Carey,40,F,Internal Medicine,2023-04-21,2023-05-01,Pneumonia,1
+890,Christopher Gonzalez,82,F,Internal Medicine,2023-10-04,2023-10-23,Pneumonia,1
+891,James Jones,70,M,Cardiology,2025-02-02,2025-02-21,Heart failure,1
+892,Rebecca Rhodes,24,M,Cardiology,2023-08-01,2023-08-01,Angina,0
+893,Ashley Carpenter,81,F,Surgery,2022-12-19,2022-12-26,Cholelithiasis,1
+894,Peggy Lopez,79,F,Pulmonology,2023-10-19,2023-11-01,Cough,1
+895,Scott Watkins,86,F,Cardiology,2023-04-25,2023-05-07,Myocardial infarction,1
+896,Brittney Bolton,29,F,Internal Medicine,2024-06-18,2024-06-18,Hypertension,0
+897,Elizabeth Romero,40,F,Cardiology,2022-12-04,2022-12-04,Heart failure,0
+898,Heidi Brewer,28,F,Pulmonology,2024-02-12,2024-03-03,Shortness of breath,1
+899,Evan Brooks,64,M,Cardiology,2023-10-29,2023-10-29,Heart failure,0
+900,Stephanie Grimes,59,M,Surgery,2023-09-06,2023-09-26,Rectal cancer,1
+901,David Gilbert,78,M,Internal Medicine,2022-11-29,2022-12-04,Hypertension,1
+902,Brenda Howard,71,F,Pulmonology,2024-01-30,2024-02-14,Cough,1
+903,Terri Valenzuela,53,M,Surgery,2023-09-25,2023-10-11,Rectal cancer,1
+904,Chris Lopez,20,M,Cardiology,2023-11-15,2023-11-15,Angina,0
+905,William Jenkins,61,M,Pulmonology,2024-01-21,2024-01-21,Wheezing,0
+906,Russell Lam,55,F,Internal Medicine,2022-12-25,2023-01-10,Hypertension,1
+907,Derrick Simmons,55,F,Cardiology,2023-12-22,2023-12-28,Heart failure,1
+908,Jason Hess,29,M,Internal Medicine,2022-08-09,2022-08-26,Pneumonia,1
+909,Rebekah Rodriguez,58,F,Surgery,2022-08-24,2022-08-24,Appendicitis,0
+910,Jason Lawrence,70,F,Pulmonology,2023-11-29,2023-11-29,Wheezing,0
+911,Stanley Castillo,59,F,Pulmonology,2022-10-04,2022-10-04,Cough,0
+912,Thomas Little,50,F,Cardiology,2023-12-12,2023-12-25,Myocardial infarction,1
+913,Matthew Kim,50,M,Cardiology,2022-06-09,2022-06-09,Myocardial infarction,0
+914,Deborah Wilkinson,20,M,Cardiology,2023-07-24,2023-07-24,Heart failure,0
+915,Michael Valdez,66,M,Internal Medicine,2023-11-06,2023-11-06,Hypertension,0
+916,Nathan Reynolds,71,F,Surgery,2022-03-02,2022-03-02,Cholelithiasis,0
+917,Amy Morgan,31,M,Internal Medicine,2024-11-24,2024-11-24,Diabetes,0
+918,Kevin Fuller MD,72,M,Surgery,2022-05-18,2022-05-26,Appendicitis,1
+919,Michelle Hunt,65,M,Surgery,2024-09-01,2024-09-20,Cholelithiasis,1
+920,Felicia Rivas,28,F,Surgery,2022-08-06,2022-08-23,Rectal cancer,1
+921,Joseph Burns,20,M,Pulmonology,2024-04-14,2024-04-20,Shortness of breath,1
+922,Mallory Snyder,74,M,Internal Medicine,2024-08-23,2024-08-28,Diabetes,1
+923,Juan Gutierrez,43,M,Surgery,2022-07-23,2022-08-09,Cholelithiasis,1
+924,Latoya Molina,76,F,Pulmonology,2022-07-23,2022-08-05,Wheezing,1
+925,Sergio Dawson,44,F,Surgery,2024-04-13,2024-04-28,Rectal cancer,1
+926,Victoria Anderson,41,M,Pulmonology,2024-08-06,2024-08-16,Shortness of breath,1
+927,Miranda Jones,81,F,Surgery,2023-11-22,2023-12-04,Cholelithiasis,1
+928,Samuel Maldonado,58,M,Surgery,2022-10-13,2022-10-26,Appendicitis,1
+929,Jessica Martin,81,F,Internal Medicine,2023-01-25,2023-02-10,Diabetes,1
+930,Angela Hayes,44,M,Cardiology,2024-02-20,2024-03-08,Heart failure,1
+931,Shannon Cox,34,F,Internal Medicine,2022-04-20,2022-04-20,Hypertension,0
+932,Angela Phillips,64,F,Cardiology,2022-09-03,2022-09-03,Heart failure,0
+933,Christopher Vargas,31,M,Surgery,2024-11-18,2024-11-30,Appendicitis,1
+934,Marie Bishop,88,M,Cardiology,2022-09-09,2022-09-17,Heart failure,1
+935,Renee Wiggins,29,M,Cardiology,2024-01-08,2024-01-21,Heart failure,1
+936,Courtney Reynolds,84,M,Pulmonology,2023-03-07,2023-03-25,Shortness of breath,1
+937,John Valentine,78,F,Surgery,2023-06-16,2023-06-16,Cholelithiasis,0
+938,Joshua Goodwin,48,F,Surgery,2023-07-12,2023-07-12,Appendicitis,0
+939,Olivia Dawson,73,M,Pulmonology,2024-02-09,2024-02-28,Wheezing,1
+940,Dr. Nicole Buck,73,F,Surgery,2022-10-28,2022-11-02,Rectal cancer,1
+941,Jennifer Moreno,83,F,Cardiology,2023-02-13,2023-02-27,Angina,1
+942,Susan Cook,46,F,Surgery,2024-05-06,2024-05-22,Appendicitis,1
+943,Nicholas Davis,38,F,Internal Medicine,2022-05-23,2022-05-23,Diabetes,0
+944,Kevin Anderson,74,F,Cardiology,2024-03-02,2024-03-12,Heart failure,1
+945,Donald Delacruz,43,M,Cardiology,2024-11-28,2024-11-28,Angina,0
+946,Jessica Watson,32,F,Cardiology,2023-03-20,2023-03-20,Angina,0
+947,Angela Blair,59,M,Internal Medicine,2023-02-20,2023-03-12,Pneumonia,1
+948,Cynthia Holmes,57,M,Internal Medicine,2024-05-27,2024-06-14,Hypertension,1
+949,Brian Charles,66,M,Internal Medicine,2022-06-05,2022-06-13,Diabetes,1
+950,Michael Klein,90,F,Cardiology,2022-05-09,2022-05-23,Heart failure,1
+951,Kathy Smith,26,F,Internal Medicine,2023-07-01,2023-07-08,Hypertension,1
+952,Sarah Martinez,58,F,Pulmonology,2023-10-05,2023-10-21,Shortness of breath,1
+953,Samantha Dixon,72,M,Internal Medicine,2022-03-28,2022-04-02,Hypertension,1
+954,Joel Lamb,33,M,Surgery,2024-01-19,2024-02-04,Rectal cancer,1
+955,Matthew Orozco,71,F,Cardiology,2022-07-25,2022-08-03,Angina,1
+956,Jordan Pierce,27,M,Pulmonology,2024-07-31,2024-07-31,Cough,0
+957,Ashley Sullivan,51,M,Cardiology,2025-01-23,2025-01-30,Heart failure,1
+958,Corey Bush,32,M,Cardiology,2022-09-11,2022-09-21,Heart failure,1
+959,Amy Wilkins,23,M,Internal Medicine,2025-01-28,2025-01-28,Diabetes,0
+960,James Holt,37,M,Pulmonology,2022-06-22,2022-07-10,Wheezing,1
+961,Deanna Barnes,65,F,Cardiology,2024-06-27,2024-07-06,Myocardial infarction,1
+962,Karen Burgess,25,F,Internal Medicine,2022-05-28,2022-06-06,Diabetes,1
+963,Brian Miranda,37,M,Surgery,2025-01-16,2025-01-16,Rectal cancer,0
+964,Michelle Kirby,25,F,Internal Medicine,2023-01-30,2023-02-11,Pneumonia,1
+965,Whitney Evans,46,F,Pulmonology,2023-03-26,2023-04-11,Cough,1
+966,Susan Black,65,M,Internal Medicine,2023-10-10,2023-10-28,Pneumonia,1
+967,Damon Bryant,48,M,Pulmonology,2022-10-23,2022-10-23,Wheezing,0
+968,Lori Hensley MD,85,F,Cardiology,2025-01-09,2025-01-21,Myocardial infarction,1
+969,Lynn Allen,37,F,Cardiology,2023-05-17,2023-06-03,Angina,1
+970,Sarah Ross,64,M,Surgery,2025-01-05,2025-01-14,Rectal cancer,1
+971,Mallory Donovan,44,F,Internal Medicine,2022-11-29,2022-12-06,Diabetes,1
+972,Sarah Alvarez,61,M,Internal Medicine,2024-06-27,2024-06-27,Diabetes,0
+973,James Sandoval,84,M,Pulmonology,2025-01-08,2025-01-08,Shortness of breath,0
+974,Christopher Brewer,49,M,Surgery,2023-10-03,2023-10-12,Appendicitis,1
+975,Andrew White,68,M,Cardiology,2023-11-23,2023-12-04,Myocardial infarction,1
+976,Lisa Ward,54,M,Internal Medicine,2022-06-15,2022-06-15,Hypertension,0
+977,Pamela Mccarty,75,F,Surgery,2024-12-21,2025-01-02,Cholelithiasis,1
+978,Stephen Barnes,39,F,Pulmonology,2022-06-02,2022-06-02,Cough,0
+979,Edward Jones,21,M,Pulmonology,2022-06-30,2022-06-30,Shortness of breath,0
+980,Suzanne Brown,42,M,Cardiology,2024-01-28,2024-01-28,Myocardial infarction,0
+981,Crystal Marks,41,F,Pulmonology,2023-03-05,2023-03-21,Cough,1
+982,Lauren Cohen,28,F,Internal Medicine,2023-03-12,2023-03-12,Hypertension,0
+983,Danielle Mills,43,F,Cardiology,2024-08-08,2024-08-08,Myocardial infarction,0
+984,Joseph Smith,32,F,Surgery,2023-08-12,2023-08-18,Rectal cancer,1
+985,Julia Sanchez,90,F,Cardiology,2024-06-17,2024-06-28,Heart failure,1
+986,Terry Romero,27,F,Cardiology,2023-11-19,2023-12-06,Myocardial infarction,1
+987,Kevin Butler,24,M,Cardiology,2024-12-19,2024-12-29,Angina,1
+988,Jennifer Calhoun MD,27,F,Internal Medicine,2023-11-23,2023-12-12,Hypertension,1
+989,Emma Estrada,51,F,Internal Medicine,2024-02-01,2024-02-01,Diabetes,0
+990,Angela Mitchell,31,F,Surgery,2024-10-06,2024-10-15,Cholelithiasis,1
+991,Amy Parker,28,M,Internal Medicine,2024-12-26,2025-01-10,Diabetes,1
+992,Johnny Maddox,41,M,Cardiology,2022-07-25,2022-08-08,Heart failure,1
+993,Matthew Vega,57,M,Internal Medicine,2023-03-09,2023-03-22,Diabetes,1
+994,John Gonzalez,23,F,Internal Medicine,2022-04-06,2022-04-24,Diabetes,1
+995,Thomas Watson,47,M,Internal Medicine,2022-05-16,2022-05-23,Hypertension,1
+996,Randall Wallace,38,F,Surgery,2022-03-17,2022-03-24,Cholelithiasis,1
+997,Jennifer Hickman,79,F,Cardiology,2023-01-10,2023-01-22,Angina,1
+998,Jason Martin,35,M,Internal Medicine,2023-09-23,2023-09-23,Hypertension,0
+999,Kenneth Gould,31,F,Pulmonology,2022-10-26,2022-11-05,Shortness of breath,1
+1000,Brenda Miller,44,F,Surgery,2024-02-15,2024-02-27,Cholelithiasis,1
+1001,Sarah Hubbard,30,F,Surgery,2023-10-09,2023-10-09,Cholelithiasis,0
+1002,Joan Colon,79,F,Pulmonology,2022-05-31,2022-06-05,Wheezing,1
+1003,Nichole Moore,34,M,Cardiology,2023-05-05,2023-05-25,Heart failure,1
+1004,Billy Stephenson,83,M,Cardiology,2022-05-01,2022-05-17,Heart failure,1
+1005,Mary Rosales DDS,59,M,Internal Medicine,2023-08-18,2023-08-26,Diabetes,1
+1006,Amber Contreras,62,M,Internal Medicine,2022-11-19,2022-11-30,Hypertension,1
+1007,William Williams,56,F,Surgery,2024-08-30,2024-08-30,Appendicitis,0
+1008,Anna Fowler,50,F,Pulmonology,2023-09-09,2023-09-29,Cough,1
+1009,Sarah Phillips,37,M,Internal Medicine,2024-08-26,2024-09-14,Hypertension,1
+1010,Adam Smith,72,M,Surgery,2024-11-09,2024-11-20,Cholelithiasis,1
+1011,Brian Allen,87,F,Internal Medicine,2023-06-04,2023-06-15,Hypertension,1
+1012,Sean Carney,79,M,Surgery,2025-02-14,2025-02-14,Rectal cancer,0
+1013,Ronald Walker,52,M,Internal Medicine,2023-05-16,2023-05-16,Hypertension,0
+1014,Andrew Mclaughlin,45,M,Cardiology,2023-08-31,2023-09-07,Angina,1
+1015,Mr. Miguel Wilson,72,F,Internal Medicine,2024-05-24,2024-06-05,Diabetes,1
+1016,Jimmy Martinez,46,F,Internal Medicine,2022-09-21,2022-09-26,Pneumonia,1
+1017,Jessica Smith,45,M,Cardiology,2022-07-15,2022-07-23,Heart failure,1
+1018,Amy Davis,23,M,Surgery,2022-08-31,2022-08-31,Rectal cancer,0
+1019,Alicia Hall,64,M,Pulmonology,2023-11-09,2023-11-24,Cough,1
+1020,John Rice,27,F,Internal Medicine,2024-09-11,2024-09-11,Diabetes,0
+1021,Misty Dalton,20,M,Internal Medicine,2024-04-10,2024-04-10,Hypertension,0
+1022,Kimberly Garcia,38,M,Cardiology,2024-06-28,2024-06-28,Angina,0
+1023,Melissa Ali,43,M,Surgery,2022-11-06,2022-11-13,Cholelithiasis,1
+1024,Danielle Robinson,61,M,Internal Medicine,2023-01-13,2023-01-20,Hypertension,1
+1025,Lisa Rogers,88,F,Pulmonology,2023-11-28,2023-12-14,Shortness of breath,1
+1026,Jason Rosario,84,M,Cardiology,2024-09-01,2024-09-01,Angina,0
+1027,Justin Mcintosh,30,F,Cardiology,2023-03-31,2023-04-07,Angina,1
+1028,Sarah Gomez,36,F,Pulmonology,2023-11-03,2023-11-14,Shortness of breath,1
+1029,Donald Anderson,66,M,Internal Medicine,2023-01-01,2023-01-21,Pneumonia,1
+1030,Laura Singh,54,M,Internal Medicine,2024-06-07,2024-06-15,Hypertension,1
+1031,William Osborne,61,F,Pulmonology,2023-02-14,2023-02-22,Wheezing,1
+1032,Brenda Melendez,32,M,Surgery,2023-07-23,2023-08-04,Cholelithiasis,1
+1033,Tina Dickerson,84,F,Cardiology,2024-04-05,2024-04-22,Myocardial infarction,1
+1034,Mrs. Tamara Hendrix MD,73,M,Internal Medicine,2023-09-17,2023-09-28,Diabetes,1
+1035,Sheila Davis,33,F,Surgery,2024-06-07,2024-06-07,Cholelithiasis,0
+1036,Jonathan Silva,39,M,Internal Medicine,2022-09-04,2022-09-09,Pneumonia,1
+1037,Danielle Summers,78,M,Surgery,2022-03-09,2022-03-09,Appendicitis,0
+1038,Caleb Alexander,38,F,Internal Medicine,2024-08-11,2024-08-11,Diabetes,0
+1039,Samantha Martin,33,F,Surgery,2023-03-25,2023-04-09,Rectal cancer,1
+1040,Trevor Hill,48,M,Pulmonology,2022-04-08,2022-04-24,Wheezing,1
+1041,Christopher Kidd,79,F,Cardiology,2023-02-18,2023-03-08,Heart failure,1
+1042,David Phillips,53,M,Cardiology,2024-03-22,2024-03-22,Angina,0
+1043,Gabriella Leon,38,M,Cardiology,2025-01-06,2025-01-06,Heart failure,0
+1044,Jillian Hayden,80,M,Internal Medicine,2025-02-12,2025-02-12,Hypertension,0
+1045,Kim Parker,37,F,Cardiology,2022-11-11,2022-11-11,Angina,0
+1046,Eddie Mcdonald,28,F,Pulmonology,2022-06-24,2022-06-29,Cough,1
+1047,Paul Gray,63,M,Internal Medicine,2024-04-25,2024-04-25,Diabetes,0
+1048,Christopher Carroll,54,F,Surgery,2024-03-03,2024-03-19,Appendicitis,1
+1049,James Hester,39,F,Pulmonology,2024-08-25,2024-09-12,Cough,1
+1050,Benjamin Freeman,46,M,Cardiology,2022-07-04,2022-07-09,Heart failure,1
+1051,Tiffany Hall,26,M,Internal Medicine,2024-12-31,2024-12-31,Diabetes,0
+1052,Lisa Wilson,28,F,Internal Medicine,2025-01-07,2025-01-21,Pneumonia,1
+1053,Vanessa Donovan,67,M,Surgery,2024-08-04,2024-08-04,Rectal cancer,0
+1054,Stephen Stevens,26,M,Surgery,2024-08-27,2024-08-27,Cholelithiasis,0
+1055,Ashley Frederick,79,M,Pulmonology,2022-10-28,2022-11-03,Shortness of breath,1
+1056,Edward Mccarthy,78,F,Pulmonology,2024-09-05,2024-09-05,Shortness of breath,0
+1057,Angela Mendoza,65,M,Pulmonology,2023-09-02,2023-09-07,Shortness of breath,1
+1058,Amanda Davis,67,F,Cardiology,2023-09-12,2023-09-20,Myocardial infarction,1
+1059,Elizabeth Flores,66,M,Pulmonology,2024-01-26,2024-01-26,Shortness of breath,0
+1060,Amber Duncan,28,M,Surgery,2024-10-18,2024-10-28,Rectal cancer,1
+1061,Kathleen Green,26,M,Surgery,2024-03-08,2024-03-08,Rectal cancer,0
+1062,James Turner,42,F,Cardiology,2024-12-27,2025-01-15,Myocardial infarction,1
+1063,Victor Mason,25,M,Pulmonology,2024-09-23,2024-10-09,Wheezing,1
+1064,Alan Ward,77,F,Surgery,2023-11-23,2023-11-23,Rectal cancer,0
+1065,Elizabeth Chase,42,F,Surgery,2023-04-17,2023-05-02,Appendicitis,1
+1066,John Sanchez,30,F,Pulmonology,2023-09-07,2023-09-07,Shortness of breath,0
+1067,Robert Carey,53,F,Internal Medicine,2023-12-27,2023-12-27,Pneumonia,0
+1068,Amy Moran,27,F,Surgery,2024-12-06,2024-12-25,Rectal cancer,1
+1069,Kyle Williams,78,M,Surgery,2023-10-04,2023-10-04,Cholelithiasis,0
+1070,Michelle Young,77,F,Surgery,2023-08-30,2023-09-07,Cholelithiasis,1
+1071,Wayne Burton,73,M,Pulmonology,2024-10-05,2024-10-23,Wheezing,1
+1072,Krystal Durham,71,F,Internal Medicine,2024-03-30,2024-03-30,Hypertension,0
+1073,Troy Matthews,27,F,Pulmonology,2023-10-07,2023-10-07,Shortness of breath,0
+1074,Joshua Moran,25,F,Cardiology,2024-05-18,2024-05-18,Myocardial infarction,0
+1075,Toni Reyes,63,F,Internal Medicine,2023-07-06,2023-07-23,Hypertension,1
+1076,Martin Perez,73,M,Cardiology,2023-06-07,2023-06-17,Heart failure,1
+1077,Jessica Perez,86,F,Pulmonology,2025-02-04,2025-02-19,Shortness of breath,1
+1078,Gregory Fowler,81,M,Internal Medicine,2023-04-06,2023-04-14,Pneumonia,1
+1079,Megan Schultz,90,M,Surgery,2024-03-14,2024-03-29,Rectal cancer,1
+1080,Eric Jones,41,M,Pulmonology,2022-08-19,2022-08-19,Shortness of breath,0
+1081,Antonio Hill,72,M,Internal Medicine,2024-08-25,2024-08-25,Pneumonia,0
+1082,Amy Singh,84,M,Pulmonology,2023-08-24,2023-08-24,Cough,0
+1083,Joseph Sweeney,24,M,Cardiology,2024-03-12,2024-03-22,Angina,1
+1084,Linda Miller,53,M,Surgery,2024-12-14,2024-12-21,Appendicitis,1
+1085,Jessica Parker,44,F,Internal Medicine,2023-03-26,2023-03-31,Hypertension,1
+1086,Lisa Hughes,38,M,Cardiology,2025-02-10,2025-02-10,Heart failure,0
+1087,Jimmy Torres,57,F,Surgery,2023-01-12,2023-01-12,Rectal cancer,0
+1088,Travis Graham,82,M,Cardiology,2024-09-23,2024-10-10,Myocardial infarction,1
+1089,David Scott,33,F,Surgery,2024-07-09,2024-07-29,Appendicitis,1
+1090,Erin Nelson,41,F,Surgery,2024-02-20,2024-03-09,Rectal cancer,1
+1091,Timothy Hardy,20,M,Cardiology,2024-03-29,2024-04-10,Heart failure,1
+1092,Thomas Arnold,65,F,Pulmonology,2023-07-13,2023-07-19,Wheezing,1
+1093,Elizabeth Shaw,32,M,Surgery,2022-09-12,2022-09-29,Appendicitis,1
+1094,Sherry Johnson,89,F,Surgery,2022-06-09,2022-06-09,Appendicitis,0
+1095,Eric Martin,45,F,Surgery,2024-02-24,2024-02-24,Appendicitis,0
+1096,Charles Yoder,38,M,Internal Medicine,2022-08-01,2022-08-13,Pneumonia,1
+1097,Briana Townsend,85,F,Pulmonology,2023-04-07,2023-04-07,Cough,0
+1098,Sarah Delgado,80,F,Internal Medicine,2025-01-16,2025-02-05,Hypertension,1
+1099,Billy Contreras,65,M,Cardiology,2023-02-24,2023-03-15,Heart failure,1
+1100,Vanessa Mitchell,70,F,Cardiology,2022-12-05,2022-12-05,Angina,0
+1101,Steven Schwartz,62,F,Cardiology,2025-03-03,2025-03-08,Myocardial infarction,1
+1102,Michael Moss,87,F,Pulmonology,2023-03-28,2023-04-08,Cough,1
+1103,James Hill,30,M,Pulmonology,2024-11-27,2024-11-27,Shortness of breath,0
+1104,Richard Thompson,30,F,Internal Medicine,2022-07-21,2022-08-08,Diabetes,1
+1105,Richard Barker,60,M,Pulmonology,2022-11-28,2022-12-07,Cough,1
+1106,Christopher Adams,57,M,Pulmonology,2022-06-06,2022-06-13,Shortness of breath,1
+1107,Rhonda Saunders,77,F,Internal Medicine,2023-02-11,2023-02-22,Diabetes,1
+1108,Daniel Ramirez,38,M,Pulmonology,2023-03-26,2023-03-26,Shortness of breath,0
+1109,Thomas Soto,31,M,Cardiology,2022-06-02,2022-06-02,Angina,0
+1110,Jeffrey Roberts,79,F,Internal Medicine,2022-05-18,2022-05-28,Diabetes,1
+1111,Michelle Chandler,63,F,Pulmonology,2022-07-18,2022-08-05,Wheezing,1
+1112,Jonathan Ruiz,54,M,Pulmonology,2022-10-26,2022-10-26,Shortness of breath,0
+1113,William Hughes,56,F,Pulmonology,2023-10-04,2023-10-04,Wheezing,0
+1114,John Perez,36,F,Internal Medicine,2023-04-10,2023-04-16,Hypertension,1
+1115,Stephanie Carpenter,69,M,Pulmonology,2024-06-05,2024-06-10,Cough,1
+1116,Ronald Lopez,40,F,Cardiology,2024-04-14,2024-04-20,Myocardial infarction,1
+1117,Todd Sanchez,39,F,Internal Medicine,2022-11-04,2022-11-17,Pneumonia,1
+1118,Brandon Harris,38,M,Pulmonology,2025-02-16,2025-02-16,Cough,0
+1119,David Wheeler,30,F,Pulmonology,2024-10-08,2024-10-13,Cough,1
+1120,Elijah Campbell,78,M,Surgery,2024-02-11,2024-02-27,Cholelithiasis,1
+1121,Mrs. Candace Palmer,71,F,Surgery,2022-12-10,2022-12-10,Appendicitis,0
+1122,Pamela Erickson,89,F,Surgery,2022-08-30,2022-08-30,Rectal cancer,0
+1123,Gregory Haley,42,F,Surgery,2024-03-03,2024-03-23,Rectal cancer,1
+1124,Mary Harding,51,F,Cardiology,2025-01-19,2025-01-28,Heart failure,1
+1125,Janet Jones,68,M,Surgery,2023-04-08,2023-04-18,Cholelithiasis,1
+1126,Jennifer Smith,73,M,Pulmonology,2023-11-22,2023-11-22,Wheezing,0
+1127,Benjamin Ruiz,21,F,Internal Medicine,2023-06-08,2023-06-24,Hypertension,1
+1128,Terry Butler,52,M,Cardiology,2023-09-20,2023-10-01,Heart failure,1
+1129,Stephanie Romero,89,F,Internal Medicine,2022-09-25,2022-10-12,Hypertension,1
+1130,Andrew Farrell,68,M,Surgery,2022-03-22,2022-03-28,Rectal cancer,1
+1131,Jacqueline Ramos,77,F,Pulmonology,2022-07-15,2022-07-23,Shortness of breath,1
+1132,Frank Kirk,59,F,Pulmonology,2022-06-23,2022-07-09,Cough,1
+1133,Deborah Taylor,22,F,Surgery,2023-08-05,2023-08-23,Rectal cancer,1
+1134,Michael Chen,37,M,Pulmonology,2025-01-20,2025-01-20,Wheezing,0
+1135,Alan Wade,76,F,Cardiology,2025-01-22,2025-01-22,Heart failure,0
+1136,Dennis Taylor,75,F,Cardiology,2022-04-07,2022-04-15,Myocardial infarction,1
+1137,Sheryl Rogers,43,M,Pulmonology,2024-08-06,2024-08-06,Cough,0
+1138,Samuel Wright,78,M,Pulmonology,2022-06-20,2022-06-20,Shortness of breath,0
+1139,Tony Rose,38,F,Cardiology,2025-01-18,2025-01-31,Myocardial infarction,1
+1140,James Carey,76,M,Cardiology,2024-06-24,2024-07-07,Heart failure,1
+1141,Carrie Sanchez,37,F,Surgery,2023-10-23,2023-10-23,Appendicitis,0
+1142,Andrew Robinson,42,F,Surgery,2023-03-02,2023-03-22,Rectal cancer,1
+1143,Cory Bush,45,F,Internal Medicine,2022-07-28,2022-08-07,Pneumonia,1
+1144,Mr. David Williams,66,M,Internal Medicine,2024-12-07,2024-12-07,Diabetes,0
+1145,Ashley Mason,26,M,Pulmonology,2023-12-12,2023-12-12,Wheezing,0
+1146,Craig Zimmerman,57,M,Cardiology,2024-09-26,2024-09-26,Heart failure,0
+1147,Antonio Coleman,82,M,Cardiology,2022-08-07,2022-08-14,Myocardial infarction,1
+1148,Mr. Vernon Andrews,41,M,Surgery,2022-06-15,2022-07-01,Rectal cancer,1
+1149,Richard Rodriguez,59,F,Internal Medicine,2023-10-15,2023-10-27,Hypertension,1
+1150,Autumn Ramirez,26,F,Surgery,2022-10-02,2022-10-02,Rectal cancer,0
+1151,Jacob Phillips,30,F,Surgery,2024-06-08,2024-06-08,Rectal cancer,0
+1152,Thomas Bell,40,F,Internal Medicine,2022-06-07,2022-06-18,Pneumonia,1
+1153,Timothy Williams,20,M,Cardiology,2023-11-24,2023-12-09,Angina,1
+1154,Madeline Meadows,75,F,Pulmonology,2022-12-04,2022-12-04,Wheezing,0
+1155,Austin Solomon,25,F,Pulmonology,2023-04-13,2023-04-13,Cough,0
+1156,Ryan George,44,M,Internal Medicine,2024-08-14,2024-08-29,Hypertension,1
+1157,Shawn Jimenez,54,F,Cardiology,2022-12-03,2022-12-13,Myocardial infarction,1
+1158,Rebecca Robinson,74,F,Cardiology,2024-06-09,2024-06-09,Angina,0
+1159,Benjamin Young,57,M,Pulmonology,2023-02-13,2023-02-23,Cough,1
+1160,Jerry Wong,41,F,Internal Medicine,2022-11-02,2022-11-02,Diabetes,0
+1161,Christopher Mccoy,75,M,Surgery,2022-05-13,2022-05-13,Cholelithiasis,0
+1162,William Greene,41,F,Internal Medicine,2023-08-07,2023-08-16,Diabetes,1
+1163,Jacob Padilla,61,M,Cardiology,2024-08-25,2024-09-05,Angina,1
+1164,Emma Luna,70,M,Pulmonology,2024-11-10,2024-11-22,Cough,1
+1165,James Parker,87,M,Cardiology,2024-06-06,2024-06-23,Heart failure,1
+1166,Brittany Weber,80,M,Internal Medicine,2024-01-08,2024-01-23,Pneumonia,1
+1167,Michael Smith,40,M,Internal Medicine,2023-02-11,2023-02-17,Pneumonia,1
+1168,Scott Leblanc,22,M,Surgery,2023-09-18,2023-10-02,Cholelithiasis,1
+1169,Shawn Martin,67,F,Surgery,2023-08-22,2023-08-28,Appendicitis,1
+1170,Charles Galloway,26,F,Internal Medicine,2023-08-04,2023-08-04,Pneumonia,0
+1171,Virginia Daniels,48,F,Internal Medicine,2025-01-16,2025-01-23,Pneumonia,1
+1172,Mr. Michael Myers PhD,75,F,Surgery,2022-06-24,2022-07-09,Rectal cancer,1
+1173,Brittany Wilkinson,36,M,Cardiology,2024-10-26,2024-11-02,Angina,1
+1174,Kristin Roberts,71,M,Pulmonology,2022-06-30,2022-06-30,Cough,0
+1175,Jake Gray,50,F,Pulmonology,2024-10-06,2024-10-06,Shortness of breath,0
+1176,Paul Bowman,29,F,Internal Medicine,2022-12-01,2022-12-18,Hypertension,1
+1177,Angela Haynes,46,M,Surgery,2022-06-10,2022-06-10,Rectal cancer,0
+1178,Kevin Sutton,32,F,Cardiology,2024-06-30,2024-07-12,Angina,1
+1179,Cory Harvey,74,M,Pulmonology,2023-01-01,2023-01-08,Wheezing,1
+1180,Tony Wright,70,F,Internal Medicine,2022-10-06,2022-10-18,Pneumonia,1
+1181,Nicholas Jones,77,F,Internal Medicine,2024-09-02,2024-09-02,Diabetes,0
+1182,Micheal Johnson,26,M,Cardiology,2023-03-11,2023-03-20,Heart failure,1
+1183,Christina Bolton,65,F,Surgery,2022-06-13,2022-06-28,Appendicitis,1
+1184,Edgar Gray,63,F,Internal Medicine,2023-04-06,2023-04-24,Pneumonia,1
+1185,Samantha Rowland,54,F,Pulmonology,2023-02-01,2023-02-01,Shortness of breath,0
+1186,Mario Crane,66,F,Pulmonology,2023-03-26,2023-04-07,Cough,1
+1187,Melissa Jones,90,F,Cardiology,2024-11-23,2024-12-13,Myocardial infarction,1
+1188,Tyler Fisher,47,F,Internal Medicine,2024-01-22,2024-02-01,Hypertension,1
+1189,Shari Davis,52,M,Pulmonology,2023-08-17,2023-08-24,Wheezing,1
+1190,Jeremy Kelly,54,F,Pulmonology,2024-12-16,2024-12-23,Wheezing,1
+1191,Cathy Sanchez,43,F,Cardiology,2024-01-05,2024-01-10,Angina,1
+1192,Miss Amanda Ayala MD,38,M,Pulmonology,2023-04-12,2023-04-12,Shortness of breath,0
+1193,Heather Hunter,28,M,Cardiology,2025-03-02,2025-03-02,Heart failure,0
+1194,Clinton Mitchell,51,F,Surgery,2024-02-05,2024-02-15,Cholelithiasis,1
+1195,Kimberly Sanchez,23,F,Pulmonology,2023-02-28,2023-03-14,Shortness of breath,1
+1196,Jessica Morgan,37,M,Surgery,2024-09-17,2024-09-17,Cholelithiasis,0
+1197,Isaac Ferrell,39,F,Pulmonology,2023-02-03,2023-02-19,Shortness of breath,1
+1198,Jay Serrano,69,F,Pulmonology,2022-04-21,2022-04-28,Shortness of breath,1
+1199,Duane Hudson,62,F,Cardiology,2024-09-13,2024-09-13,Myocardial infarction,0
+1200,Cheryl Frost,57,M,Pulmonology,2022-12-06,2022-12-06,Shortness of breath,0
+1201,Ronnie Harvey,59,F,Cardiology,2023-03-09,2023-03-18,Heart failure,1
+1202,Michael Hernandez,34,F,Surgery,2022-10-28,2022-11-17,Cholelithiasis,1
+1203,Timothy Schmidt,28,F,Pulmonology,2024-11-27,2024-11-27,Shortness of breath,0
+1204,Shelly Montoya,90,M,Cardiology,2024-07-02,2024-07-14,Myocardial infarction,1
+1205,Timothy Cooper,86,F,Internal Medicine,2022-09-03,2022-09-03,Hypertension,0
+1206,Kevin Peterson,84,F,Surgery,2022-07-07,2022-07-17,Appendicitis,1
+1207,Robin Lee,43,F,Pulmonology,2025-02-16,2025-03-01,Wheezing,1
+1208,Michael Bond,21,F,Cardiology,2023-10-11,2023-10-17,Heart failure,1
+1209,Alexa Howard,59,M,Surgery,2024-06-06,2024-06-26,Cholelithiasis,1
+1210,Michelle Mccoy,59,M,Surgery,2022-10-03,2022-10-03,Appendicitis,0
+1211,Angel Perry,89,F,Surgery,2025-01-16,2025-01-16,Cholelithiasis,0
+1212,Shaun Ramsey,90,F,Internal Medicine,2023-09-02,2023-09-02,Pneumonia,0
+1213,Ashley Williamson,59,M,Internal Medicine,2024-06-27,2024-07-11,Hypertension,1
+1214,Emily Jacobs,58,F,Internal Medicine,2024-12-27,2025-01-06,Hypertension,1
+1215,Kelly Lara,38,M,Pulmonology,2023-10-06,2023-10-25,Shortness of breath,1
+1216,Andrea Garcia,58,M,Pulmonology,2024-09-30,2024-10-18,Cough,1
+1217,Rodney Smith,56,M,Surgery,2023-11-03,2023-11-19,Cholelithiasis,1
+1218,Daniel Maxwell,34,M,Internal Medicine,2022-10-23,2022-10-23,Pneumonia,0
+1219,Fernando Edwards,27,F,Surgery,2022-05-13,2022-06-01,Appendicitis,1
+1220,Anthony Koch,44,M,Surgery,2024-06-07,2024-06-16,Cholelithiasis,1
+1221,Joshua Williams,47,F,Pulmonology,2023-04-11,2023-04-29,Cough,1
+1222,Emily Brown,33,F,Cardiology,2022-04-12,2022-04-28,Heart failure,1
+1223,Renee Long,69,F,Surgery,2024-06-13,2024-06-24,Rectal cancer,1
+1224,John Alexander,90,M,Pulmonology,2024-05-08,2024-05-28,Shortness of breath,1
+1225,Charles Marsh,35,F,Cardiology,2022-04-01,2022-04-14,Myocardial infarction,1
+1226,Melanie Hernandez,65,M,Pulmonology,2023-05-19,2023-06-05,Wheezing,1
+1227,Steve Oconnor,38,F,Internal Medicine,2022-12-18,2022-12-31,Pneumonia,1
+1228,Lisa Taylor,30,M,Pulmonology,2023-07-12,2023-07-12,Cough,0
+1229,Christina Hudson,86,F,Cardiology,2024-08-07,2024-08-07,Myocardial infarction,0
+1230,William Gomez,22,M,Surgery,2022-06-23,2022-07-05,Appendicitis,1
+1231,Donald Suarez,71,M,Pulmonology,2023-07-04,2023-07-17,Shortness of breath,1
+1232,Ashley Gutierrez,34,F,Surgery,2022-10-22,2022-11-01,Cholelithiasis,1
+1233,Jacob Porter,57,M,Cardiology,2023-12-06,2023-12-23,Myocardial infarction,1
+1234,Erica Jennings,28,F,Internal Medicine,2022-09-25,2022-10-09,Diabetes,1
+1235,Lindsey Taylor,65,M,Pulmonology,2022-05-10,2022-05-25,Wheezing,1
+1236,Jennifer Sanchez,45,F,Surgery,2022-12-29,2023-01-15,Cholelithiasis,1
+1237,Sharon Gray,49,M,Cardiology,2023-08-25,2023-09-01,Myocardial infarction,1
+1238,Scott Donovan,60,M,Surgery,2022-10-23,2022-11-11,Rectal cancer,1
+1239,Michael Wagner,34,F,Internal Medicine,2025-02-10,2025-02-10,Diabetes,0
+1240,Ashley Kelly,74,F,Internal Medicine,2023-08-08,2023-08-08,Diabetes,0
+1241,Thomas Roberts,28,M,Pulmonology,2022-09-12,2022-09-17,Cough,1
+1242,Daniel Harrison,33,M,Cardiology,2022-06-09,2022-06-29,Angina,1
+1243,Christopher Chandler,60,F,Pulmonology,2024-02-06,2024-02-13,Cough,1
+1244,Derek Huff,45,M,Surgery,2023-08-06,2023-08-21,Rectal cancer,1
+1245,Amber Martinez,56,M,Pulmonology,2022-03-22,2022-03-22,Shortness of breath,0
+1246,Carrie Benton,72,M,Internal Medicine,2023-01-15,2023-01-15,Hypertension,0
+1247,Jeffrey Hernandez,30,M,Cardiology,2024-11-02,2024-11-02,Heart failure,0
+1248,Martha Merritt,80,F,Cardiology,2022-07-08,2022-07-16,Angina,1
+1249,Connie Brown,35,M,Cardiology,2024-12-15,2024-12-15,Myocardial infarction,0
+1250,Steven Harper,40,M,Surgery,2024-06-20,2024-06-26,Appendicitis,1
+1251,David Hicks,47,M,Internal Medicine,2024-11-26,2024-12-11,Hypertension,1
+1252,Denise Williams,21,M,Surgery,2023-08-21,2023-08-28,Appendicitis,1
+1253,Pamela Miller,66,M,Surgery,2023-10-07,2023-10-19,Rectal cancer,1
+1254,Michael Mullins,83,F,Internal Medicine,2023-06-16,2023-07-05,Diabetes,1
+1255,Victor Wright,31,M,Pulmonology,2022-06-30,2022-07-06,Shortness of breath,1
+1256,Christina Nelson,34,F,Surgery,2023-02-16,2023-02-28,Cholelithiasis,1
+1257,Julie Fry,70,M,Internal Medicine,2024-05-06,2024-05-06,Diabetes,0
+1258,Gregory Wilson,81,M,Cardiology,2025-01-22,2025-02-01,Heart failure,1
+1259,Elizabeth Nunez,82,F,Pulmonology,2022-07-29,2022-08-13,Cough,1
+1260,Matthew Espinoza,32,M,Internal Medicine,2022-12-21,2023-01-09,Hypertension,1
+1261,Timothy Hunter,52,F,Pulmonology,2023-02-08,2023-02-18,Shortness of breath,1
+1262,Sarah Vargas,88,M,Pulmonology,2023-07-29,2023-07-29,Cough,0
+1263,Victoria Peterson,66,F,Pulmonology,2023-12-22,2023-12-22,Wheezing,0
+1264,Ashley Brown,56,M,Pulmonology,2023-10-21,2023-10-21,Cough,0
+1265,David Johnson,24,F,Surgery,2023-08-28,2023-08-28,Cholelithiasis,0
+1266,Rachel Pruitt,73,M,Pulmonology,2024-05-08,2024-05-17,Cough,1
+1267,Jennifer Anderson,80,F,Internal Medicine,2022-04-19,2022-05-02,Pneumonia,1
+1268,Jesus Evans,57,M,Internal Medicine,2023-10-08,2023-10-22,Pneumonia,1
+1269,Latasha Rodriguez,88,M,Internal Medicine,2024-07-26,2024-08-08,Hypertension,1
+1270,Carrie Johnson,62,M,Cardiology,2024-11-09,2024-11-09,Heart failure,0
+1271,Paul Barker,66,M,Internal Medicine,2023-05-26,2023-05-26,Diabetes,0
+1272,Lisa Sweeney,35,M,Pulmonology,2022-11-07,2022-11-15,Wheezing,1
+1273,Edward Henry,27,F,Surgery,2023-05-18,2023-05-29,Appendicitis,1
+1274,Matthew Edwards,48,F,Pulmonology,2023-07-31,2023-07-31,Shortness of breath,0
+1275,Brittany White,40,F,Internal Medicine,2023-11-25,2023-12-15,Hypertension,1
+1276,Chelsea Walker,79,M,Internal Medicine,2022-05-16,2022-05-16,Diabetes,0
+1277,Robert Parker,59,M,Surgery,2025-01-31,2025-02-18,Cholelithiasis,1
+1278,Dana Winters,73,M,Pulmonology,2022-05-02,2022-05-02,Shortness of breath,0
+1279,Scott Castillo,76,F,Internal Medicine,2023-07-29,2023-08-03,Diabetes,1
+1280,Karla Mathews,70,F,Pulmonology,2022-07-21,2022-08-02,Shortness of breath,1
+1281,Mitchell Day,22,F,Surgery,2023-02-23,2023-03-10,Cholelithiasis,1
+1282,Faith Mcmahon,43,F,Surgery,2023-01-01,2023-01-17,Cholelithiasis,1
+1283,Betty Miller,27,F,Pulmonology,2024-03-12,2024-03-30,Wheezing,1
+1284,Dylan Reeves,75,F,Cardiology,2023-03-23,2023-04-01,Myocardial infarction,1
+1285,Kathy Armstrong,53,M,Internal Medicine,2022-11-02,2022-11-02,Pneumonia,0
+1286,Andrea Thomas,64,M,Internal Medicine,2023-01-24,2023-02-10,Hypertension,1
+1287,Theresa Parker,38,M,Surgery,2023-02-19,2023-02-19,Cholelithiasis,0
+1288,Jane Riley,37,M,Internal Medicine,2024-08-30,2024-09-12,Hypertension,1
+1289,Ms. Melissa Moore MD,79,M,Internal Medicine,2024-01-23,2024-01-23,Pneumonia,0
+1290,Jennifer Holmes,51,M,Pulmonology,2024-11-19,2024-12-03,Cough,1
+1291,Emma Evans,70,M,Internal Medicine,2023-09-04,2023-09-17,Diabetes,1
+1292,Laura Gill,83,M,Surgery,2024-08-29,2024-08-29,Appendicitis,0
+1293,Nicholas Phillips,36,M,Cardiology,2024-11-30,2024-11-30,Heart failure,0
+1294,Jason James,22,M,Cardiology,2022-11-11,2022-11-11,Heart failure,0
+1295,Joseph Peterson,38,F,Surgery,2022-05-18,2022-05-18,Appendicitis,0
+1296,Caleb Parker,28,M,Pulmonology,2023-04-12,2023-05-01,Cough,1
+1297,Hannah Lindsey,69,M,Pulmonology,2025-01-06,2025-01-06,Shortness of breath,0
+1298,Bryan Scott DVM,87,M,Surgery,2022-07-18,2022-08-04,Cholelithiasis,1
+1299,Antonio Reed,69,F,Internal Medicine,2024-04-29,2024-04-29,Pneumonia,0
+1300,Victoria Ballard,74,M,Pulmonology,2025-02-16,2025-03-07,Shortness of breath,1
+1301,Alan Griffin,70,M,Internal Medicine,2024-05-06,2024-05-13,Diabetes,1
+1302,Antonio Jones,81,M,Internal Medicine,2022-08-15,2022-08-31,Diabetes,1
+1303,Hannah Cross,88,F,Cardiology,2023-03-09,2023-03-14,Angina,1
+1304,Michael Jefferson,69,M,Pulmonology,2025-01-26,2025-01-26,Wheezing,0
+1305,Mark Gregory,82,F,Surgery,2024-11-14,2024-11-30,Cholelithiasis,1
+1306,Stacy Davidson,85,M,Surgery,2024-11-15,2024-11-15,Appendicitis,0
+1307,Jon Burke,79,F,Pulmonology,2023-05-13,2023-05-13,Cough,0
+1308,Elizabeth Mueller DDS,78,F,Internal Medicine,2022-11-30,2022-12-07,Pneumonia,1
+1309,Rebecca King,34,M,Surgery,2022-06-08,2022-06-08,Cholelithiasis,0
+1310,Eric Lamb,73,F,Surgery,2022-12-27,2023-01-10,Rectal cancer,1
+1311,Daniel Moses,65,M,Cardiology,2023-09-27,2023-09-27,Myocardial infarction,0
+1312,Jerome Bennett,56,M,Pulmonology,2023-05-02,2023-05-16,Cough,1
+1313,Tonya Foley,38,F,Cardiology,2024-12-26,2025-01-03,Heart failure,1
+1314,Glenn Obrien,30,M,Surgery,2024-09-25,2024-09-30,Rectal cancer,1
+1315,Haley Hughes,78,M,Surgery,2024-07-16,2024-07-16,Cholelithiasis,0
+1316,Jason Coleman,44,M,Pulmonology,2022-07-28,2022-07-28,Wheezing,0
+1317,Eric Torres,22,M,Pulmonology,2023-02-23,2023-02-23,Shortness of breath,0
+1318,Mark Cooper,71,M,Cardiology,2024-07-17,2024-07-17,Heart failure,0
+1319,Gregory Baker,70,F,Internal Medicine,2022-08-14,2022-08-14,Pneumonia,0
+1320,Brian Craig,55,F,Surgery,2023-08-08,2023-08-22,Cholelithiasis,1
+1321,Justin Fisher,61,M,Pulmonology,2024-05-15,2024-05-15,Wheezing,0
+1322,Christina Lloyd,20,F,Surgery,2024-08-16,2024-09-05,Appendicitis,1
+1323,Daniel Garcia,67,M,Pulmonology,2022-05-19,2022-06-02,Wheezing,1
+1324,Matthew Price,38,M,Cardiology,2022-04-16,2022-04-25,Heart failure,1
+1325,Peter Greene,54,M,Cardiology,2023-08-17,2023-08-23,Myocardial infarction,1
+1326,William King,26,F,Pulmonology,2023-01-21,2023-01-31,Cough,1
+1327,Joseph Watts,84,M,Surgery,2024-07-30,2024-08-09,Rectal cancer,1
+1328,Mr. Christopher Rivera,22,M,Surgery,2023-04-10,2023-04-27,Cholelithiasis,1
+1329,Richard Goodwin,66,F,Surgery,2023-12-23,2024-01-10,Appendicitis,1
+1330,Dawn Wright,69,F,Pulmonology,2023-12-14,2023-12-24,Cough,1
+1331,Matthew Lopez,78,F,Surgery,2024-06-14,2024-06-26,Rectal cancer,1
+1332,Stephen Russell,90,F,Internal Medicine,2022-12-09,2022-12-14,Diabetes,1
+1333,Katherine Robertson,46,M,Pulmonology,2023-01-26,2023-02-03,Cough,1
+1334,Scott Burke,33,M,Internal Medicine,2023-01-09,2023-01-09,Pneumonia,0
+1335,Kara Sullivan,47,F,Surgery,2024-06-21,2024-07-05,Cholelithiasis,1
+1336,Amy Stanton,39,M,Pulmonology,2023-03-07,2023-03-26,Shortness of breath,1
+1337,Teresa Holland,53,M,Internal Medicine,2022-09-13,2022-09-24,Diabetes,1
+1338,Henry Schneider,75,F,Surgery,2023-07-19,2023-07-19,Rectal cancer,0
+1339,Kristen Mcintyre,75,M,Internal Medicine,2024-07-19,2024-08-08,Diabetes,1
+1340,James Coleman,60,M,Cardiology,2023-11-25,2023-11-25,Angina,0
+1341,Susan Lee,87,M,Internal Medicine,2022-04-16,2022-04-16,Pneumonia,0
+1342,Stephanie Alexander,73,M,Surgery,2025-01-13,2025-01-28,Rectal cancer,1
+1343,Brandon Baker,46,M,Pulmonology,2022-09-20,2022-09-25,Cough,1
+1344,Emma Harris,66,F,Pulmonology,2023-12-05,2023-12-22,Shortness of breath,1
+1345,Michelle Hendricks,54,M,Internal Medicine,2023-08-24,2023-09-06,Pneumonia,1
+1346,Kevin Barnes,41,M,Pulmonology,2023-05-25,2023-05-25,Wheezing,0
+1347,Thomas Joyce,86,M,Pulmonology,2023-05-16,2023-05-29,Cough,1
+1348,Regina Diaz,56,F,Cardiology,2022-05-19,2022-05-25,Heart failure,1
+1349,Erin Stewart,58,F,Cardiology,2025-02-21,2025-02-21,Heart failure,0
+1350,Brian Watson,71,M,Surgery,2024-05-11,2024-05-24,Appendicitis,1
+1351,Eileen Cox,84,F,Pulmonology,2022-06-07,2022-06-12,Wheezing,1
+1352,Bill Duarte,26,F,Surgery,2022-08-21,2022-09-09,Cholelithiasis,1
+1353,Thomas Townsend,43,F,Internal Medicine,2023-12-27,2023-12-27,Hypertension,0
+1354,Kaitlyn Mason,80,M,Pulmonology,2023-12-02,2023-12-20,Wheezing,1
+1355,Rebecca Johnson,89,M,Pulmonology,2023-09-19,2023-09-19,Shortness of breath,0
+1356,Deborah Strong,76,M,Surgery,2024-04-16,2024-05-04,Rectal cancer,1
+1357,Sharon Cox,34,F,Cardiology,2024-12-11,2024-12-24,Myocardial infarction,1
+1358,Aaron Nguyen,52,M,Surgery,2024-10-05,2024-10-24,Appendicitis,1
+1359,Brian Hayes,21,F,Pulmonology,2022-03-05,2022-03-16,Wheezing,1
+1360,Steven Thomas,29,F,Cardiology,2024-02-23,2024-03-10,Angina,1
+1361,Cory Burke,35,M,Pulmonology,2024-08-05,2024-08-15,Shortness of breath,1
+1362,Alicia King,62,M,Pulmonology,2024-02-18,2024-03-08,Cough,1
+1363,Kim Todd,79,F,Surgery,2024-09-13,2024-09-13,Rectal cancer,0
+1364,Hayley Gaines,85,F,Internal Medicine,2024-09-29,2024-10-14,Pneumonia,1
+1365,Gina Carrillo,84,M,Surgery,2023-08-24,2023-09-03,Cholelithiasis,1
+1366,April Stone,60,F,Internal Medicine,2024-12-06,2024-12-19,Pneumonia,1
+1367,Allison Vincent,77,F,Internal Medicine,2024-10-08,2024-10-08,Hypertension,0
+1368,William Murphy,40,M,Surgery,2022-06-09,2022-06-14,Rectal cancer,1
+1369,Paul Campbell,75,F,Pulmonology,2024-04-03,2024-04-17,Cough,1
+1370,Amber Shelton,73,F,Cardiology,2023-12-06,2023-12-26,Angina,1
+1371,Larry Montoya,42,M,Cardiology,2024-06-30,2024-07-09,Heart failure,1
+1372,Kristen Ford,70,M,Surgery,2024-10-19,2024-11-01,Rectal cancer,1
+1373,Raymond Black,67,M,Cardiology,2022-08-27,2022-09-04,Angina,1
+1374,Joshua White,71,F,Surgery,2024-02-02,2024-02-15,Cholelithiasis,1
+1375,Andrew Evans,53,M,Internal Medicine,2023-01-15,2023-01-15,Diabetes,0
+1376,Laura Bowen,77,F,Surgery,2022-09-04,2022-09-04,Cholelithiasis,0
+1377,Matthew Delacruz,60,F,Internal Medicine,2024-04-29,2024-05-15,Pneumonia,1
+1378,Brenda Lynch,68,M,Cardiology,2023-10-19,2023-10-27,Angina,1
+1379,Heather Ballard,62,F,Internal Medicine,2022-09-24,2022-09-24,Pneumonia,0
+1380,Amanda Valdez,47,F,Cardiology,2023-06-19,2023-06-30,Myocardial infarction,1
+1381,Jason Rodriguez,41,M,Cardiology,2024-10-01,2024-10-18,Myocardial infarction,1
+1382,Matthew Johnson,27,F,Internal Medicine,2022-09-16,2022-10-04,Diabetes,1
+1383,Patrick Heath,76,M,Pulmonology,2022-08-15,2022-08-25,Cough,1
+1384,Nancy Byrd,44,F,Surgery,2025-02-24,2025-03-05,Cholelithiasis,1
+1385,Todd Hall,80,M,Cardiology,2024-04-13,2024-04-22,Myocardial infarction,1
+1386,Alyssa Hoffman,48,F,Cardiology,2024-09-16,2024-10-04,Angina,1
+1387,Christopher Frank,44,F,Internal Medicine,2023-02-10,2023-02-10,Diabetes,0
+1388,Madison Sims,47,M,Surgery,2024-08-15,2024-08-24,Appendicitis,1
+1389,Tamara Munoz,55,F,Cardiology,2024-06-14,2024-06-14,Angina,0
+1390,Melissa Foster,30,M,Surgery,2024-01-10,2024-01-10,Cholelithiasis,0
+1391,Whitney Wiggins,47,F,Internal Medicine,2023-01-06,2023-01-15,Diabetes,1
+1392,Cheryl Davis,79,F,Pulmonology,2023-04-23,2023-04-28,Wheezing,1
+1393,Nicole Barnes,48,M,Cardiology,2024-01-24,2024-02-12,Angina,1
+1394,Danny Dawson,76,F,Internal Medicine,2023-10-01,2023-10-01,Pneumonia,0
+1395,Rebecca Estrada,49,M,Cardiology,2023-02-14,2023-02-14,Angina,0
+1396,Robin Baker,83,M,Pulmonology,2022-06-11,2022-06-11,Shortness of breath,0
+1397,Jessica Baird,52,M,Internal Medicine,2022-06-16,2022-06-23,Hypertension,1
+1398,Wanda Fox,25,F,Pulmonology,2023-02-03,2023-02-03,Cough,0
+1399,Joseph Brown,67,M,Cardiology,2022-04-02,2022-04-20,Myocardial infarction,1
+1400,Melissa Johnson,40,M,Internal Medicine,2024-04-23,2024-05-04,Hypertension,1
+1401,Brandon Miller,51,M,Pulmonology,2023-01-26,2023-01-26,Shortness of breath,0
+1402,Joseph Willis,36,F,Surgery,2022-12-31,2022-12-31,Rectal cancer,0
+1403,Brandon Moore,57,F,Cardiology,2023-11-01,2023-11-13,Heart failure,1
+1404,Adam Bates,42,M,Internal Medicine,2024-01-12,2024-01-22,Diabetes,1
+1405,Deanna Johnson,53,M,Pulmonology,2022-10-01,2022-10-21,Wheezing,1
+1406,Michelle Jenkins,74,F,Cardiology,2023-11-11,2023-11-21,Angina,1
+1407,Aaron Burns,31,M,Cardiology,2024-01-21,2024-01-29,Myocardial infarction,1
+1408,Ashley Foster,75,M,Pulmonology,2023-03-07,2023-03-12,Shortness of breath,1
+1409,Kathryn Hanna,21,F,Surgery,2024-03-12,2024-03-22,Cholelithiasis,1
+1410,Jordan Wise,71,F,Cardiology,2022-11-12,2022-12-01,Myocardial infarction,1
+1411,Mark Blair,32,F,Surgery,2024-07-22,2024-07-22,Cholelithiasis,0
+1412,Scott Rodriguez,90,M,Surgery,2025-02-15,2025-03-04,Appendicitis,1
+1413,Jamie Carter,69,M,Internal Medicine,2023-05-12,2023-05-28,Hypertension,1
+1414,Suzanne Johnson,83,F,Cardiology,2022-10-12,2022-10-26,Heart failure,1
+1415,Daniel Mccoy,61,F,Cardiology,2024-05-23,2024-05-31,Angina,1
+1416,Barry King,90,M,Pulmonology,2025-02-26,2025-03-09,Shortness of breath,1
+1417,Erin Gonzales,30,M,Cardiology,2024-01-19,2024-02-06,Heart failure,1
+1418,Jennifer Perez,89,M,Cardiology,2024-08-18,2024-08-18,Myocardial infarction,0
+1419,Mark Gates,79,F,Cardiology,2022-04-16,2022-05-05,Angina,1
+1420,Mark Clark,60,M,Surgery,2023-10-25,2023-10-30,Appendicitis,1
+1421,Debra Smith,89,F,Surgery,2024-08-18,2024-08-27,Appendicitis,1
+1422,Brandon Cole,76,M,Internal Medicine,2024-11-22,2024-12-12,Diabetes,1
+1423,Michelle Peterson,34,F,Internal Medicine,2022-08-02,2022-08-20,Diabetes,1
+1424,Richard Thomas,52,M,Cardiology,2024-12-25,2025-01-09,Myocardial infarction,1
+1425,Jennifer Hoffman,33,M,Internal Medicine,2024-06-25,2024-07-06,Hypertension,1
+1426,Denise Valentine,31,M,Internal Medicine,2024-10-19,2024-11-05,Diabetes,1
+1427,Lisa Hernandez,39,M,Cardiology,2023-08-05,2023-08-24,Angina,1
+1428,Claudia Jones,81,F,Internal Medicine,2023-04-28,2023-05-14,Diabetes,1
+1429,Anthony Wright,33,M,Surgery,2024-01-18,2024-01-25,Appendicitis,1
+1430,Joel Mcgee,82,M,Internal Medicine,2022-06-07,2022-06-07,Pneumonia,0
+1431,Matthew Thompson,45,M,Cardiology,2023-07-16,2023-08-05,Heart failure,1
+1432,Edward Castillo,41,F,Internal Medicine,2022-06-11,2022-06-27,Diabetes,1
+1433,Samantha Fitzpatrick,54,F,Surgery,2024-06-27,2024-07-17,Cholelithiasis,1
+1434,Michael Knight,81,M,Cardiology,2023-03-03,2023-03-03,Heart failure,0
+1435,Ronald Adams,67,M,Surgery,2024-12-09,2024-12-21,Rectal cancer,1
+1436,Aaron Fernandez,56,F,Pulmonology,2024-03-23,2024-03-28,Cough,1
+1437,William Austin,84,M,Pulmonology,2023-03-08,2023-03-08,Shortness of breath,0
+1438,Derrick Miles,83,M,Surgery,2024-06-10,2024-06-24,Rectal cancer,1
+1439,Jason Khan,36,M,Pulmonology,2025-01-11,2025-01-28,Shortness of breath,1
+1440,Robin Hunter,78,M,Internal Medicine,2023-09-09,2023-09-15,Pneumonia,1
+1441,Johnny Brennan,81,M,Pulmonology,2023-08-04,2023-08-19,Shortness of breath,1
+1442,Annette Sutton,77,F,Pulmonology,2022-11-09,2022-11-09,Cough,0
+1443,Annette Riddle,88,M,Internal Medicine,2023-05-13,2023-05-18,Hypertension,1
+1444,Michele Coleman,36,F,Cardiology,2024-12-04,2024-12-11,Myocardial infarction,1
+1445,Colleen Griffin,25,M,Surgery,2022-08-26,2022-09-15,Rectal cancer,1
+1446,Diane Long,74,M,Internal Medicine,2023-08-22,2023-08-30,Hypertension,1
+1447,Matthew Nelson,79,M,Cardiology,2023-05-29,2023-06-08,Myocardial infarction,1
+1448,Kaitlyn Villanueva,70,F,Surgery,2024-05-11,2024-05-11,Rectal cancer,0
+1449,Heather Hickman,77,M,Internal Medicine,2024-07-04,2024-07-04,Diabetes,0
+1450,Barbara Smith,30,M,Cardiology,2023-01-02,2023-01-02,Angina,0
+1451,Elizabeth Hall,65,M,Internal Medicine,2023-12-31,2024-01-18,Hypertension,1
+1452,Jared Hodge,63,M,Surgery,2024-10-26,2024-11-04,Cholelithiasis,1
+1453,Alexander Floyd,24,F,Surgery,2022-11-27,2022-12-17,Rectal cancer,1
+1454,Jason Mcgee,35,F,Surgery,2022-05-07,2022-05-13,Rectal cancer,1
+1455,Benjamin Taylor,78,M,Pulmonology,2024-02-20,2024-03-07,Shortness of breath,1
+1456,Stacey Bishop,38,M,Pulmonology,2024-01-24,2024-02-07,Shortness of breath,1
+1457,Patrick Copeland,75,M,Surgery,2023-03-28,2023-04-02,Rectal cancer,1
+1458,Aaron Ayers,69,F,Internal Medicine,2024-07-16,2024-07-16,Hypertension,0
+1459,Robert Tucker,50,F,Pulmonology,2024-03-27,2024-04-09,Wheezing,1
+1460,Joshua Adams,75,M,Internal Medicine,2024-11-15,2024-12-02,Diabetes,1
+1461,Robert Bauer,62,F,Pulmonology,2024-04-19,2024-05-06,Wheezing,1
+1462,Lauren Forbes,24,F,Surgery,2023-11-04,2023-11-17,Appendicitis,1
+1463,Rhonda Dodson,82,F,Surgery,2022-11-28,2022-12-03,Cholelithiasis,1
+1464,Jonathan Peterson,74,M,Internal Medicine,2023-06-17,2023-07-03,Hypertension,1
+1465,Edwin Flores,71,M,Internal Medicine,2023-02-19,2023-02-19,Pneumonia,0
+1466,Amanda Erickson,77,F,Pulmonology,2024-01-06,2024-01-26,Cough,1
+1467,Clayton Evans,88,F,Internal Medicine,2024-11-09,2024-11-28,Diabetes,1
+1468,Mr. Timothy Nicholson,44,F,Surgery,2024-07-17,2024-08-01,Cholelithiasis,1
+1469,Tammy Neal,82,M,Internal Medicine,2023-11-21,2023-12-04,Pneumonia,1
+1470,Mark Mitchell,70,M,Pulmonology,2023-02-02,2023-02-11,Cough,1
+1471,Courtney Welch,51,M,Pulmonology,2023-02-10,2023-02-25,Cough,1
+1472,Angie Russell,50,M,Surgery,2023-11-30,2023-11-30,Cholelithiasis,0
+1473,Mark Underwood,71,F,Surgery,2023-08-14,2023-09-02,Appendicitis,1
+1474,Matthew Dunn,88,M,Surgery,2023-12-13,2023-12-18,Cholelithiasis,1
+1475,Edward Acosta,46,M,Cardiology,2022-08-05,2022-08-05,Angina,0
+1476,Ruben Guerra,83,M,Cardiology,2022-10-11,2022-10-11,Angina,0
+1477,Scott Cordova,56,F,Cardiology,2024-12-19,2025-01-02,Myocardial infarction,1
+1478,Jamie Martin,72,M,Pulmonology,2024-04-12,2024-04-12,Cough,0
+1479,Joseph James,85,M,Internal Medicine,2022-10-18,2022-10-28,Diabetes,1
+1480,Edward Chavez,40,F,Internal Medicine,2022-10-06,2022-10-20,Diabetes,1
+1481,Adam Davis,31,M,Pulmonology,2024-05-17,2024-05-17,Wheezing,0
+1482,Heather Bauer,87,M,Internal Medicine,2023-07-07,2023-07-20,Hypertension,1
+1483,Elizabeth Wallace,51,M,Cardiology,2023-06-24,2023-07-04,Heart failure,1
+1484,Danielle Williams,31,F,Pulmonology,2025-01-17,2025-01-17,Cough,0
+1485,Ellen Coleman,89,F,Internal Medicine,2022-05-16,2022-05-16,Pneumonia,0
+1486,David Reid,63,F,Surgery,2022-11-17,2022-11-26,Rectal cancer,1
+1487,Javier Bird,60,F,Surgery,2022-03-23,2022-03-28,Cholelithiasis,1
+1488,Theresa Saunders,70,M,Cardiology,2023-03-27,2023-03-27,Angina,0
+1489,Nancy Johnson,42,M,Internal Medicine,2024-07-12,2024-07-22,Pneumonia,1
+1490,Thomas Pope,59,M,Surgery,2022-05-02,2022-05-13,Appendicitis,1
+1491,Courtney Silva,87,M,Pulmonology,2023-05-22,2023-06-02,Wheezing,1
+1492,Joseph Solomon,28,F,Surgery,2023-02-11,2023-02-19,Appendicitis,1
+1493,Alan Pearson,46,F,Pulmonology,2024-06-26,2024-06-26,Cough,0
+1494,Steven Lamb,39,F,Surgery,2023-03-28,2023-04-14,Cholelithiasis,1
+1495,Wesley Walker,44,F,Internal Medicine,2024-07-10,2024-07-17,Diabetes,1
+1496,Craig Wilson,78,F,Pulmonology,2022-04-23,2022-05-13,Wheezing,1
+1497,Nicole Walker,79,F,Pulmonology,2023-03-10,2023-03-10,Wheezing,0
+1498,William Sanchez,34,F,Cardiology,2024-01-21,2024-01-27,Angina,1
+1499,David Davis,46,F,Pulmonology,2023-12-02,2023-12-02,Wheezing,0
+1500,Craig Castro,23,F,Internal Medicine,2022-03-03,2022-03-10,Pneumonia,1

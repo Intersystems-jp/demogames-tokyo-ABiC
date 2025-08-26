@@ -1,0 +1,125 @@
+<html>
+<head>
+<link rel="stylesheet" href="{{ url_for('static', filename='abic.css') }}">
+</head>
+<body>
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  const form    = document.getElementById('create-text-form');
+  const loading = document.getElementById('loading');
+  const result  = document.getElementById('result');
+  const message = document.getElementById('chatbot-text');
+  const iframe  = document.querySelector('.pane-right iframe');
+  const url     = iframe.src;
+
+  const chatUL   = document.getElementById('chatbot-ul');
+  const chatBody = document.getElementById('chatbot-body');
+
+  function addBubble(side, text) {
+    const li  = document.createElement('li');
+    li.className = side === 'right' ? 'right' : 'left';
+    const div = document.createElement('div');
+    div.className = side === 'right' ? 'chatbot-right' : 'chatbot-left';
+    div.textContent = text ?? '';
+    li.appendChild(div);
+    chatUL.appendChild(li);
+    chatBody.scrollTop = chatBody.scrollHeight;
+  }
+
+  function normalize(value) {
+    if (Array.isArray(value)) return value.join('\n');
+    if (value && typeof value === 'object') return JSON.stringify(value, null, 2);
+    return value ?? '';
+  }
+
+  form.addEventListener('submit', async (event) => {
+    event.preventDefault();
+    loading.style.display = 'block';
+    result.textContent = '';
+
+    // ← 送信直前に値を取得（ここ重要）
+    const userText = message.value;
+
+    // 右バブル表示→入力クリア
+    addBubble('right', userText);
+    message.value = '';
+
+    try {
+      const bodyjson = { UserInput: userText };
+
+      const res = await fetch('/info/mdx', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json;charset=utf-8' },
+        body: JSON.stringify(bodyjson)
+      });
+
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+
+      // ← 安全パース：空/非JSON対応
+      let data;
+      const ct = res.headers.get('content-type') || '';
+      if (res.status === 204) {
+        data = {}; // No Content
+      } else if (ct.includes('application/json')) {
+        data = await res.json();
+      } else {
+        const txt = await res.text();
+        try { data = JSON.parse(txt); }
+        catch { data = { message: txt }; }
+      }
+
+      const text = normalize(
+        data.recommend ?? data.message ?? data.text ?? data.result ?? data
+      );
+      addBubble('left', text || '[There are no recommendation／レコメンド情報なし]');
+
+      result.textContent = 'Ready! 👉';
+      iframe.src = (data.url ?? url);
+
+    } catch (err) {
+      console.error(err);
+      result.textContent = 'Error: ' + err.message;
+      addBubble('left', 'Error: ' + err.message);
+    } finally {
+      loading.style.display = 'none';
+    }
+  });
+});
+</script>
+
+<div class="container">
+    <div class="pane-left">
+<!--画面-->
+<!--Import Google Icon Font-->
+<link href= "https://fonts.googleapis.com/icon?family=Material+Icons" rel= "stylesheet">
+
+<form id="create-text-form">  <!-- ← id を付与（onsubmit 属性は不要） -->
+  <div id= "chatbot-header">
+    <div id= "chatbot-logo"> ABiC chatbot </div>
+    <i id= "chatbot-zoom-icon" class="material-icons waves-effect waves-light" onclick= "chatbotZoom()">fullscreen</i>
+  </div>
+  <div id="chatbot-body">
+    <ul id="chatbot-ul"></ul>
+  </div>
+
+  <div id="chatbot-footer">
+    <textarea id="chatbot-text" class="browser-default" placeholder="Please enter the content you want to analyze.／分析内容を入力してください。" rows="5" cols="45" required></textarea>
+    <div class="button-row">
+      <button class="image-button" type="submit"></button>
+    </div>
+  </div>
+
+  <div id="loading" style="display:none;"> thinking・・・</div>
+  <div class="message"><h2><pre id="result"></pre></h2></div>
+</form>
+    
+    </div>
+
+    <div class="pane-right">
+        <iframe src="{{ url_for('white') }}" width="100%" height="100%">
+        </iframe>
+    </div>
+</div>
+
+</body>
+</html> 

@@ -1,0 +1,16 @@
+EmpID,Name,EmpRole,EmpType,Status,DeptID
+1,Daniel Grant,Nurse,PartTime,Active,5
+2,Catherine Coleman,Admin,PartTime,Active,3
+3,Rachel Jensen,Doctor,PartTime,Active,2
+4,Brenda Branch,Nurse,PartTime,Active,4
+5,Joanna Davis,Nurse,FullTime,Active,2
+6,Megan Buchanan,Doctor,FullTime,Active,5
+7,David Reese,Nurse,FullTime,Active,4
+8,Trevor Branch,Admin,FullTime,Active,1
+9,Dr. John Robinson,Nurse,FullTime,Active,5
+10,Stacy Richmond,Doctor,PartTime,Active,4
+11,Dean Henderson,Doctor,FullTime,Active,4
+12,Cindy Perkins DDS,Nurse,PartTime,Active,5
+13,Jennifer Silva,Doctor,PartTime,Active,3
+14,Tony Ray,Nurse,PartTime,Active,3
+15,Louis Hill,Doctor,FullTime,Active,2

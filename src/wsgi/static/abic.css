@@ -1,0 +1,200 @@
+/* ===== Base ===== */
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  box-sizing: border-box;
+  background: #FFF;
+  font-family: 'Noto Sans JP', -apple-system, BlinkMacSystemFont, "Helvetica Neue", YuGothic, "ヒラギノ角ゴ ProN W3", Hiragino Kaku Gothic ProN, Arial, "メイリオ", Meiryo, sans-serif;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  tap-highlight-color: rgba(0, 0, 0, 0);
+  overflow-x: hidden;
+  -webkit-overflow-scrolling: touch;
+}
+
+a {
+  color: #2196F3;
+  text-decoration: none;
+}
+/* ===== Layout ===== */
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+
+.pane-left {
+  width: 20%;
+  padding: 5px;
+  box-sizing: border-box;
+  background-color: #ebfdff;
+  height: 100%;
+}
+
+.pane-right {
+  width: 80%;
+  padding: 5px;
+  box-sizing: border-box;
+  background-color: #ebfdff;
+  height: 100%;
+}
+
+.message {
+  color: #009999;
+}
+
+/* ボタン周り */
+.image-button {
+  background-image: url("https://raw.githubusercontent.com/iijimam/images/refs/heads/main/abic.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: transparent;
+  width: 100px;
+  height: 100px;
+  border: none;
+  cursor: pointer;
+}
+
+.button-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+
+/* ===== Chat Header ===== */
+#chatbot-header {
+  height: 40px;
+  background: #009999;
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+}
+
+#chatbot-logo {
+  color: white;
+  line-height: 40px;
+  padding: 0 30px;
+  font-size: 16px;
+}
+
+#chatbot-zoom-icon {
+  display: block;
+  height: 100%;
+  line-height: 40px;
+  padding: 0 20px;
+  color: #FFF;
+  cursor: pointer;
+}
+
+#chatbot-zoom-icon:active {
+  background: #4D7999;
+}
+
+@media screen and (max-width: 700px) {
+  #chatbot-zoom-icon { display: none; }
+}
+
+
+/* ===== Chat Body / Footer ===== */
+#chatbot-body {
+  width: 100%;
+  height: calc(80vh - 40px);
+  padding-top: 10px;
+  background: #ebfdff;
+  box-sizing: border-box;
+  overflow-x: hidden;   /* 横スクロール抑止 */
+  overflow-y: scroll;   /* 縦スクロール可 */
+  -webkit-overflow-scrolling: touch;
+  -ms-overflow-style: none;      /* IE/Edge スクロールバー非表示 */
+}
+#chatbot-body::-webkit-scrollbar { display: none; } /* Chrome/Safari 非表示 */
+
+@media screen and (max-width: 700px) {
+  #chatbot-body { height: calc(100vh - 170px); }
+}
+
+#chatbot-footer {
+  width: 100%;
+  height: auto;
+  display: flex;
+  box-sizing: border-box;
+  background: #FFF;
+  border-top: 1.5px solid #EEE;
+}
+
+#chatbot-text {
+  height: 50px;
+  width: 100%;
+  display: block;
+  font-size: 16px;
+  box-sizing: border-box;
+  margin: auto 3px;
+  color: rgba(83, 83, 83, 0.903);
+  border: 0;
+  outline: 0;
+}
+#chatbot-text:focus {
+  border: none;
+  outline: none;
+}
+
+
+/* ===== Chat List / Bubbles ===== */
+#chatbot-ul {
+  padding: 0;
+  list-style: none;
+}
+
+#chatbot-ul > li {
+  position: relative;
+  width: 100%;
+  padding-bottom: 6px; /* 10px → 6px に詰めて“間延び”抑制 */
+  word-wrap: break-word;
+}
+
+#chatbot-ul > li > div {
+  display: inline-block;
+  box-sizing: border-box;
+  min-height: 23px;
+  max-width: 85%;
+  padding: 7px 13px;
+  font-size: 16px;
+  line-height: 1.3em;
+  position: relative;
+}
+
+/* 相手（左） */
+.chatbot-left {
+  margin-left: 5px;
+  background: white;
+  border-radius: 0 9px 9px 9px;
+  color: #1A5F80;
+  white-space: pre-wrap;
+  user-select: text;
+  -webkit-user-select: text;
+  -moz-user-select: text;
+}
+
+/* 自分（右） */
+.chatbot-right {
+  margin-right: 5px;
+  background: #009999f9;
+  text-align: left;
+  border-radius: 9px 0 9px 9px;
+  color: white;
+  white-space: pre-wrap;
+  user-select: text;
+  -webkit-user-select: text;
+  -moz-user-select: text;
+}
+
+/* li の左右寄せ（レイアウト側 .left/.right と衝突しないようID配下で限定） */
+#chatbot-ul > li.left  { text-align: left; }
+#chatbot-ul > li.right { text-align: right; }
+

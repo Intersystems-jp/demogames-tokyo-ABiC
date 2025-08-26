@@ -1,0 +1,32 @@
+{
+    "objectscript.conn": {
+        "active": false,
+        "ns": "USER",
+        "server": "test"
+    },
+    "intersystems.servers": {
+        "test":{
+            "webServer": {
+                "host": "127.0.0.1",
+                "port": 7443,
+                "scheme": "https",
+            },
+            "username": "SuperUser"
+        }
+    },
+    "sqltools.connections": [
+        {
+            "namespace": "USER",
+            "connectionMethod": "Server and Port",
+            "showSystem": false,
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 9080,
+            "https": false,
+            "askForPassword": true,
+            "driver": "InterSystems IRIS",
+            "name": "docker",
+            "username": "SuperUser"
+        }
+    ]
+}
